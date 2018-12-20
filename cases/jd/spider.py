@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-爬取京东手机类前10页商品图片
+"""爬取京东手机类前10页商品图片
+
+    使用正则表达式进行信息抽取
 """
 
 from urllib import request
