@@ -3,7 +3,7 @@
 
 """分析Robots协议
 
-Robots协议也成为爬虫协议、机器人协议，全称网络爬虫排除标准（Robots Exclusion Protocol），
+Robots协议也称为爬虫协议、机器人协议，全称网络爬虫排除标准（Robots Exclusion Protocol），
 用来告诉搜索引擎和爬虫哪些页面可以爬取，哪些不可以爬取。
 Robots协议通常是一个名为robots.txt的文本文件，放在网站的根目录下。
 """
