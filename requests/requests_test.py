@@ -52,4 +52,4 @@ def get_binary_con():
 
 
 # 测试
-get_binary_con()
+do_get_req()
