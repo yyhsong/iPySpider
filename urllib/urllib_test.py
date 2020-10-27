@@ -17,17 +17,22 @@ readline(): 读取一行内容
 """
 
 from urllib import request
-import time
 
+# 爬取的目标网址
 url = 'https://blog.csdn.net'
+
+# 标识User-Agent，伪装成浏览器请求
 req = request.Request(url)
-req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36')
-for i in range(100):
-    with request.urlopen(req, timeout=100) as f:
-        print('-------------- Request --------------')
-        print('Status:', f.status)
-        print('Reason:', f.reason)
-        for k, v in f.getheaders():
-            print('%s: %s' % (k, v))
-        # print('Data:', f.read().decode('utf-8'))
-    time.sleep(65)
+req.add_header('User-Agent',
+               'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36')
+
+# 发送网络请求
+with request.urlopen(req, timeout=1000) as f:
+    print('-------------- Request --------------')
+    print('Status:', f.status)
+    print('Reason:', f.reason)
+    print('Headers:')
+    for k, v in f.getheaders():
+        print('%s: %s' % (k, v))
+    print('Data:')
+    print(f.read().decode('utf-8'))
