@@ -1,5 +1,6 @@
 # iPySpider
-基于Python 3.x的网络爬虫练习
+The website is the API.
+基于Python 3.x的网络爬虫与信息提取
 
 ## 网络请求库
 - urllib Python内置标准库
