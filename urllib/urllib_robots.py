@@ -17,7 +17,8 @@ rp = robotparser.RobotFileParser('https://www.csdn.net/robots.txt')
 rp.read()
 
 # 判断爬虫是否可以爬取某些目录或页面
-# 第一个参数为爬虫名称，第二个参数为要爬取的Url
+# 第一个参数为爬虫名称，第二个参数为要爬取的URL
+# 返回True或False
 print(rp.can_fetch('*', 'https://www.csdn.net/nav/newarticles'))
 print(rp.can_fetch('*', 'http://www.csdn.net/tag/cms'))
 
