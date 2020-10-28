@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""urllib
+"""GET请求
 
 使用urllib发送GET方式的请求
 把请求返回的内容写入本地文件
