@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""urllib
+"""POST请求
 
 使用urllib发送POST方式的请求
 把请求返回的内容写入本地文件
@@ -17,7 +17,7 @@ url = 'https://www.iqianyue.com/mypost/'
 # Params output from urlencode is encoded to bytes before it is sent to urlopen as data
 # 转换后的格式：b'name=Neo&pass=abc123'
 post_data = parse.urlencode({
-    'name': '般若Neo',
+    'name': 'Neo',
     'pass': 'abc123'
 }).encode('utf-8')
 
