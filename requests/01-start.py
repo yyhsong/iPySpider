@@ -40,7 +40,7 @@ Response对象的属性和方法：
 6、text 响应内容的字符串形式，即url对应的页面内容
 7、content 响应内容的二进制形式
 8、json() 响应内容的json格式
-9、cookies
+9、cookies 响应的cookie信息
 包含服务器返回的所有信息，也包含请求的Request信息
 
 requests库的异常：
