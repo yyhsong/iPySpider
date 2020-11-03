@@ -32,6 +32,7 @@ requests.post(url, data=None, json=None, **kwargs)  # **kwargs 11个
 
 import requests
 
+
 # get()方法
 # params 字典或字节序列，作为参数增加到url中
 r = requests.get('https://www.baidu.com/s?', params={"wd":"python", "lang":"中文"})
@@ -63,30 +64,3 @@ print(r.text)
 #     'https': 'https://10.10.10.2:8080'
 # }
 # r = requests.request('GET', 'http://www.abc.com', proxies=pxs)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
