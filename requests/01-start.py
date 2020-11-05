@@ -41,7 +41,9 @@ Response对象的属性和方法：
 7、content 响应内容的二进制形式
 8、json() 响应内容的json格式
 9、cookies 响应的cookie信息
-包含服务器返回的所有信息，也包含请求的Request信息
+包含服务器返回的所有信息，也包含请求的Request信息，如：
+查看请求的URL：resp.request.url
+查看请求的头信息：resp.request.headers
 
 requests库的异常：
 1、ConnectionError  网络连接异常，如DNS查询失败，拒绝连接等
