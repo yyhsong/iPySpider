@@ -1,30 +1,29 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""PyQuery的基本使用"""
+"""pyquery库的基本用法
 
+基于Python的XML/HTML解析库
+使用jQuery风格的语法来遍历文档
+
+三种初始化方法
+1、传入字符串 PyQuery('<html>...</html>')
+2、出入url参数 PyQuery(url='xxx', encoding='utf-8')
+3、传入文件 PyQuery(filename='xxx.html')
+"""
+
+import requests
 from pyquery import PyQuery as pq
 
-target_url = 'http://quotes.money.163.com/f10/zycwzb_600398,season.html'
-doc = pq(url=target_url)
+url = 'https://blog.csdn.net/'
+headers= {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36'
+}
 
-# 获取列数
-target_table = doc('#scrollTable .col_r .table_bg001')
-col_ths = target_table.children('tr:first-child th')
-col_num = len(col_ths) + 1
+r = requests.get(url, headers=headers)
+doc = pq(r.text)  # 把返回的字符串内容转换为HTML文档树
+items = doc('#feedlist_id .list_con .title h2 a')  # 使用类似jQuery的选择器提取节点
 
-# 按列抓取数据
-res_data = []
-for i in range(1, col_num):
-    col_key = col_ths.filter(':nth-child(' + str(i) + ')').text()
-    cols = target_table.children('tr td:nth-child(' + str(i) + ')').items()
-    col_data = []
-    for col in cols:
-        col_data.append(col.text())
-    res_data.append({
-        col_key: col_data
-    })
-
-# 测试
-for r in res_data:
-    print(r)
+print('---------- Blog List ----------')
+for item in items:  # 遍历节点
+    print(item.text.strip())  # 提取节点包含的文本
