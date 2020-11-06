@@ -32,7 +32,6 @@ requests.post(url, data=None, json=None, **kwargs)  # **kwargs 11个
 
 import requests
 
-
 # get()方法
 # params 字典或字节序列，作为参数增加到url中
 r = requests.get('https://www.baidu.com/s?', params={"wd":"python", "lang":"中文"})
