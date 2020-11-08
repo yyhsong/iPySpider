@@ -46,7 +46,7 @@ headers= {
 }
 
 r = requests.get(url, headers=headers)
-html = etree.HTML(r.text)  # 把返回内容转换为HTML Element
+html = etree.HTML(r.text)  # 把请求返回内容转换为ElementTree
 items = html.xpath('//li[@data-type="blog"]/div[@class="list_con"]/div[@class="title"]/h2/a')  # 使用路径表达式提取节点
 
 print('---------- Blog List ----------')
