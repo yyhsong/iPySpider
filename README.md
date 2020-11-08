@@ -1,7 +1,7 @@
 # iPySpider
-基于Python 3.x的网络爬虫与信息提取
+基于Python 3.x的网络爬虫和信息提取
 
-The website is the API.
+网页即接口 The website is the API.
 
 ## 网络请求库
 - urllib Python内置标准库
