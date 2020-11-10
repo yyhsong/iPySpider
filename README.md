@@ -7,10 +7,11 @@
 - urllib Python内置标准库
 - requests 基于urllib的再次封装
 
-## 信息抽取库
+## 文档解析及信息提取库
 - lxml
 - pyquery
 - beautifulsoup
+- re
 
 ## 网络爬虫框架
 - scrapy
