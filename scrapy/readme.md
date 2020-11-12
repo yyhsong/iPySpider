@@ -37,22 +37,22 @@ Scrapy是一个支持高并发的网络爬虫框架
     - 修改、丢弃、新增请求或响应
     - 用户可以编写配置代码
 
-![Scrapy框架结构](scrapy-structure.jpg)
+![Scrapy框架结构](./scrapy_structure.jpg)
 
 ## 数据流的三条路径
 
 - 第一条路径
-    1. Engine从Spiders(框架入口)处获得爬取请求(Request)
-    2. Engine将爬取请求转发给Scheduler，用于调度
+    - Engine从Spiders处获得爬取请求(Request)
+    - Engine将爬取请求转发给Scheduler，用于调度
 - 第二条路径
-    3. Engine从Scheduler处获得下一个要爬取的请求
-    4. Engine将爬取请求通过中间件发送给Downloader
-    5. 爬取网页后，Downloader形成响应(Response)，通过中间件发给Engine
-    6. Engine将收到的响应通过中间件发送给Spider处理
+    - Engine从Scheduler处获得下一个要爬取的请求
+    - Engine将爬取请求通过中间件发送给Downloader
+    - 爬取网页后，Downloader形成响应(Response)，通过中间件发给Engine
+    - Engine将收到的响应通过中间件发送给Spider处理
 - 第三条路径
-    7. Spider处理响应后产生爬取项(Scraped Item)和新的爬取请求给Engine
-    8. Engine将爬取项发送给Item Pipeline(框架出口)
-    9. Engine将爬取请求发送给Scheduler
+    - Spider处理响应后产生爬取项(Scraped Item)和新的爬取请求给Engine
+    - Engine将爬取项发送给Item Pipeline
+    - Engine将爬取请求发送给Scheduler
 
 ## 与requests库的比较
 
