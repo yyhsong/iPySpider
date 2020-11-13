@@ -70,7 +70,17 @@ Scrapy是一个支持高并发的网络爬虫框架
 | 并发考虑不足，性能较差 | 并发较好，性能较高 |
 | 定制灵活 | 一般定制灵活，深度定制困难 |
 
+## Scrapy框架的使用步骤
+
+1. 创建一个工程
+2. 创建Spider模板
+3. 编写Spider
+4. 编写Item Pipeline
+5. 优化配置策略
+
 ## Scrapy命令
+
+Scrapy采用命令行的方式进行创建项目、生成及启动爬虫等操作
 
 ```
 # 基本格式
@@ -83,6 +93,67 @@ Scrapy是一个支持高并发的网络爬虫框架
 # Generate new spider using pre-defined templates
 > scrapy genspider [options] <name> [domain]
 
-# Run a self-contained spider (without creating a project)
-> scrapy runspider <name>
+# Start a spider
+> scrapy crawl <name>
 ```
+
+## Scrapy工程目录
+
+- projectname/             项目外层目录   
+    - scrapy.cfg           部署Scrapy爬虫的配置文件
+    - projectname/         项目内层目录，存放用户自定义代码
+        - __init__.py      初始化文件
+        - items.py         Items代码模板（继承类）
+        - middlewares.py   Middlewares代码模板（继承类）
+        - pipelines.py     Piplines代码模板（继承类）
+        - settings.py      Scrapy爬虫的配置文件
+        - spiders/         Spiders代码目录
+            - __init__.py  初始化文件
+            - __pycache__/ 缓存目录
+        - __pycache__/     缓存目录
+
+## Scrapy中的数据类型
+
+- scrapy.http.Request类
+    表示一个HTTP请求，由Spider生成，由Downloader执行
+    主要属性和方法：
+    - url 请求的url地址
+    - method 请求方式，如GET、POST等
+    - headers 请求的头信息，字典类型
+    - body 请求的主体内容，字符串类型
+    - meta 自定义的扩展信息，可在Scrapy内部模块间传递信息
+    - copy() 复制该请求
+- scrapy.http.Response类
+    表示一个HTTP响应，由Downloader生成，由Spider处理
+    主要属性和方法：
+    - url Response对应的URL地址
+    - status HTTP状态码，成功为200
+    - headers 响应的头部信息
+    - body 响应的内容信息，字符串类型
+    - flags 一组标记
+    - request 本次响应对应的Request类
+    - copy() 复制该响应
+- scrapy.item.Item类
+    表示一个从HTML中提取的信息内容
+    由Spider生成，由Item Pipeline处理
+    类字典类型，可以当作字典类型进行处理
+
+## Scrapy支持多种信息提取方式
+
+- beautifulsoup
+- lxml
+- re
+- XPath Selector
+- CSS Selector
+
+
+
+
+
+
+
+
+
+
+
+
