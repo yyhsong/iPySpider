@@ -134,9 +134,9 @@ Scrapy采用命令行的方式进行创建项目、生成及启动爬虫等操�
     - request 本次响应对应的Request类
     - copy() 复制该响应
 - scrapy.item.Item类
-    表示一个从HTML中提取的信息内容
-    由Spider生成，由Item Pipeline处理
-    类字典类型，可以当作字典类型进行处理
+    - 表示一个从HTML中提取的信息内容
+    - 由Spider生成，由Item Pipeline处理
+    - 类字典类型，可以当作字典类型进行处理
 
 ## Scrapy支持多种信息提取方式
 
