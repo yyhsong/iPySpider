@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""案例 - 爬取中国大学排名信息
+"""案例 - 爬取中国大学排名
 
 1. 请求2020年中国大学排名页面
 2. 解析返回的HTML
@@ -33,10 +33,10 @@ class UniversityrankSpider(scrapy.Spider):
 
         # 使用XPath提取信息
         # 提取a包含的文本
-        # links = response.xpath('//table[@class="rk-table"]/tbody/tr/td[2]/a/text()').extract()
+        # texts = response.xpath('//table[@class="rk-table"]/tbody/tr/td[2]/a/text()').extract()
         # doc_txt = ''
-        # for link in links:
-        #     doc_txt += link + '\n'
+        # for text in texts:
+        #     doc_txt += text + '\n'
 
         # 提取嵌套的信息
         rows = response.xpath('//table[@class="rk-table"]/tbody/tr')
