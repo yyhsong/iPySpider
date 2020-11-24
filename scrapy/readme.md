@@ -146,14 +146,6 @@ Scrapy采用命令行的方式进行创建项目、生成及启动爬虫等操�
 - XPath Selector
 - CSS Selector
 
-
-
-
-
-
-
-
-
-
-
-
+## 用setting.py配置并发连接选项
+- CONCURRENT_REQUESTS 最大并发请求数，默认16
+- DOWNLOAD_DELAY 对同一网站的请求延迟，默认0
