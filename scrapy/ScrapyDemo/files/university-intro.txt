@@ -1,0 +1,567 @@
+{'name': '清华大学', 'enname': 'Tsinghua University', 'website': 'http://www.tsinghua.edu.cn', 'introduce': '清华大学，学校前身清华学堂始建于1911年，1928年更名为国立清华大学。抗战爆发后南迁，与北京大学、南开大学组建国立西南联合大学，1946年迁回清华园。1952年全国高等学校院系调整后，清华大学成为一所多科性工业大学，先后恢复或新建了理科、经济、管理和文科类学科，并入中央工艺美术学院、原中国人民银行研究生部等。清华大学现为教育部直属高校，是教育部与北京市人民政府、国家国防科技工业局、水利部、国家海洋局、国家卫生健康委员会共建的全国重点大学。'}
+{'name': '西安电子科技大学', 'enname': 'Xidian University', 'website': 'http://www.xidian.edu.cn', 'introduce': '西安电子科技大学，前身是1931年创建于江西瑞金的中央军委无线电学校，先后经历中央军委无线电通信学校、华北军区电讯工程专科学校、中国人民革命军事委员会工程学校、中国人民解放军通信工程学院、西北电讯工程学院等建设发展阶段，于1988年定名为西安电子科技大学。西安电子科技大学是教育部直属高校，是教育部、工业和信息化部、国防科技工业局、中国电子科技集团公司、陕西省人民政府共建的全国重点大学。'}
+{'name': '兰州大学', 'enname': 'Lanzhou University', 'website': 'http://www.lzu.edu.cn', 'introduce': '兰州大学，创建于1909年，其前身是清末新政期间设立的甘肃法政学堂；1928年扩建为兰州中山大学；1946年定名为国立兰州大学；2001年，教育部与甘肃省政府签订省部重点共建协议；2002年和2004年，原甘肃省草原生态研究所、兰州医学院先后并入兰州大学。兰州大学是中华人民共和国教育部直属全国重点大学，中央直管副部级建制，由国家国防科技工业局与教育部共建的全国重点高校。'}
+{'name': '华中农业大学', 'enname': 'Huazhong Agricultural University', 'website': 'http://www.hzau.edu.cn', 'introduce': '华中农业大学，溯源于1898年清朝光绪年间湖广总督张之洞奏请清政府创办的湖北农务学堂，是中国高等农业教育起点之一，1952年由武汉大学农学院、湖北农学院全部系科以及原中山大学等6所综合性大学农学院的部分系科组建成立华中农学院，1985年更名为华中农业大学。华中农业大学是中华人民共和国教育部直属的一所以生命科学为特色，农、理、工、文、法、经、管协调发展的全国重点大学。'}
+{'name': '南京农业大学', 'enname': 'Nanjing Agricultural University', 'website': 'http://www.njau.edu.cn', 'introduce': '南京农业大学，学校历史可溯源至1902年三江师范学堂农学博物科和1914年私立金陵大学农科，1952年由金陵大学农学院、南京大学农学院以及浙江大学农学院部分系科合并成立南京农学院，1972年学校迁至扬州，与苏北农学院合并成立江苏农学院，1979年迁回南京，1984年更名为南京农业大学。南京农业大学是教育部直属高校，是教育部与农业部共建的全国重点大学。'}
+{'name': '上海大学', 'enname': 'Shanghai University', 'website': 'http://www.shu.edu.cn', 'introduce': '上海大学，起源于1922年国共合作创建的上海大学。1994年，由上海工业大学（成立于1960年）、上海科学技术大学（成立于1958年）、原上海大学（成立于1983年）和上海科技高等专科学校（成立于1959年）合并组建新的上海大学。上海大学现隶属于上海市人民政府，是教育部、国防科技工业局与上海市人民政府共建高校，是上海市首批高水平地方高校建设试点高校。'}
+{'name': '北京交通大学', 'enname': 'Beijing jiaotong University', 'website': 'http://www.bjtu.edu.cn', 'introduce': '北京交通大学，前身为1896年由清政府创办的北京铁路管理传习所，是中国第一所专门培养管理人才的高等学校。1921年与上海工业专门学校、唐山工业专门学校合并组建交通大学，1923年交通大学改组后，北京分校更名为北京交通大学。2000年与北京电力高等专科学校合并。北京交通大学为教育部直属，是教育部、交通运输部、北京市和中国国家铁路集团有限公司共建的全国重点大学。'}
+{'name': '华中师范大学', 'enname': 'Central China Normal University', 'website': 'http://www.ccnu.edu.cn', 'introduce': '华中师范大学，学校前身是在1903年创办的文华书院大学部、1912年创办的中华大学、1949年创办的中原大学教育学院的基础上，于1951年组建的公立华中大学，1952年改制为华中高等师范学校，1953年定名为华中师范学院，1985年更名为华中师范大学。华中师范大学现为教育部直属高校，是教育部与湖北省人民政府共建的重点综合性师范大学。'}
+{'name': '苏州大学', 'enname': 'Soochow University (China)', 'website': 'http://www.suda.edu.cn', 'introduce': '苏州大学，前身为1900年创办的东吴大学，1952年经院系调整后组建苏南师范学院，同年更名为江苏师范学院，1982年学校更复名苏州大学。其后，苏州蚕桑专科学校、苏州丝绸工学院和苏州医学院等相继并入苏州大学。苏州大学现为教育部、国防科技工业局和江苏省人民政府共建高校，是江苏省属重点大学。'}
+{'name': '南方科技大学', 'enname': 'Southern University of Science and Technology', 'website': 'http://www.sustc.edu.cn', 'introduce': '南方科技大学，于2012年经教育部同意正式建立，是深圳在中国高等教育改革发展的时代背景下，创建的一所高起点、高定位的公办创新型大学，是我国高等教育综合改革试验高校。南方科技大学目前隶属于广东省人民政府，为广东省高水平大学重点建设高校。'}
+{'name': '暨南大学', 'enname': 'Jinan University', 'website': 'http://www.jnu.edu.cn', 'introduce': '暨南大学，学校前身是1906年创立于南京的暨南学堂，1927年更名为国立暨南大学。新中国成立后，暨南大学于1958年在广州重建，“文革”期间一度停办，1978年在广州复办。暨南大学直属国务院侨办领导，是中国第一所由政府创办的华侨学府，由教育部、国务院侨办和广东省人民政府共建，是广东省“十三五”期间重点建设的七所高水平大学之一。'}
+{'name': '华东理工大学', 'enname': 'East China University of Science and Technology', 'website': 'http://ecust.edu.cn', 'introduce': '华东理工大学，前身为1952年由交通大学、震旦大学、大同大学、东吴大学、江南大学等高校化工系合并组建的华东化工学院，是新中国第一所以化工特色闻名的高等学府，在历经多次专业和院系的调整后，于1993年定名华东理工大学。华东理工大学现为教育部直属高校，是教育部、上海市人民政府、中国石油化工集团公司共建的全国重点大学。'}
+{'name': '东北大学', 'enname': 'Northeastern University', 'website': 'http://www.neu.edu.cn', 'introduce': '东北大学，始建于1923年，1949年以东北大学工学院和理学院（部分）为基础建立沈阳工学院，1952年先后有大连工学院的电机系、哈尔滨工业大学采矿系和冶金系、山东大学采矿系并入，地质系、数学系、物理系划出，1993年复名东北大学，1995年沈阳黄金学院并入。东北大学现为教育部直属高校，是教育部、辽宁省人民政府、沈阳市人民政府共建的全国重点大学。'}
+{'name': '南京理工大学', 'enname': 'Nanjing University of Science and Technology', 'website': 'http://www.njust.edu.cn', 'introduce': '南京理工大学，学校由创建于1953年的中国人民解放军军事工程学院分建而成，历经炮兵工程学院、华东工程学院、华东工学院等发展阶段，1993年更名为南京理工大学。南京理工大学隶属于中华人民共和国工业和信息化部，是国家重点建设的高水平大学之一。'}
+{'name': '重庆大学', 'enname': 'Chongqing University', 'website': 'http://www.cqu.edu.cn', 'introduce': '重庆大学，创办于1929年，早在20世纪40年代就成为拥有文、理、工、商、法、医6个学院的国立综合性大学，经过1952年的院系调整，学校由综合性大学发展成为以工科为主的多科性大学。2000年前后，原重庆大学、重庆建筑大学、重庆建筑高等专科学校合并组建成为新的重庆大学。重庆大学为教育部直属，是教育部与重庆市共建的全国重点大学。'}
+{'name': '湖北大学', 'enname': 'Hubei University', 'website': 'http://www.hubu.edu.cn', 'introduce': '湖北大学，前身是1931年设立的湖北省立教育学院。此后迭经国立湖北师范学院、湖北省教育学院、湖北省教师进修学院、湖北师范专科学校、武汉师范专科学校和武汉师范学院等历史发展建设时期。1984年8月，更名改制为湖北大学。湖北大学隶属于湖北省人民政府，是湖北省与教育部共建的省属重点高校。'}
+{'name': '大连海洋大学', 'enname': 'Dalian Ocean University', 'website': 'http://www.dlou.edu.cn', 'introduce': '无'}
+{'name': '南京航空航天大学', 'enname': 'Nanjing University of Aeronautics and Astronautics', 'website': 'http://www.nuaa.edu.cn', 'introduce': '南京航空航天大学，学校起源于1952年创办的南京航空工业专科学校，1956年升格为南京航空学院，1981年被批准为全国首批具有博士学位授予权高校，1993年更名为南京航空航天大学。南京航空航天大学隶属于中华人民共和国工业和信息化部，是新中国创办的第一批航空高等院校之一。'}
+{'name': '黄山学院', 'enname': 'Huangshan University', 'website': 'http://www.hsu.edu.cn', 'introduce': '无'}
+{'name': '亳州学院', 'enname': 'Bozhou University', 'website': 'http://www.bzuu.edu.cn', 'introduce': '无'}
+{'name': '首钢工学院', 'enname': 'Shougang Institute of Technology', 'website': 'http://www.sgit.edu.cn', 'introduce': '无'}
+{'name': '太原学院', 'enname': 'Taiyuan University', 'website': 'http://www.tyu.edu.cn', 'introduce': '无'}
+{'name': '西安航空学院', 'enname': "Xi'an Aeronautical University", 'website': 'http://www.xaau.edu.cn', 'introduce': '无'}
+{'name': '山东农业工程学院', 'enname': 'Shandong Agriculture and Engineering University', 'website': 'http://www.sdngy.edu.cn', 'introduce': '无'}
+{'name': '甘肃民族师范学院', 'enname': 'Gansu Normal University for Nationalities', 'website': 'http://www.gnun.edu.cn', 'introduce': '无'}
+{'name': '山西工程技术学院', 'enname': 'Shanxi Institute of Technology', 'website': 'http://www.sxit.edu.cn', 'introduce': '无'}
+{'name': '吕梁学院', 'enname': 'Luliang University', 'website': 'http://www.llhc.edu.cn', 'introduce': '无'}
+{'name': '集宁师范学院', 'enname': 'Jining Normal University', 'website': 'http://www.jntc.nm.cn', 'introduce': '无'}
+{'name': '山东管理学院', 'enname': 'Shandong Management University', 'website': 'http://www.sdmu.edu.cn', 'introduce': '无'}
+{'name': '长治学院', 'enname': 'Changzhi University', 'website': 'http://www.czc.edu.cn', 'introduce': '无'}
+{'name': '兰州文理学院', 'enname': 'Lanzhou University of Arts and Science', 'website': 'http://www.luas.edu.cn', 'introduce': '无'}
+{'name': '黑龙江工业学院', 'enname': 'Heilongjiang University of Technology', 'website': 'http://www.hljut.edu.cn', 'introduce': '无'}
+{'name': '福建技术师范学院', 'enname': 'Fujian Polytechnic Normal University', 'website': 'http://undefined', 'introduce': '无'}
+{'name': '河套学院', 'enname': 'Hetao University', 'website': 'http://www.hetaodaxue.com', 'introduce': '无'}
+{'name': '山西能源学院', 'enname': 'Shanxi Institute of Energy', 'website': 'http://undefined', 'introduce': '无'}
+{'name': '萍乡学院', 'enname': 'Pingxiang University', 'website': 'http://www.pxc.jx.cn', 'introduce': '无'}
+{'name': '鄂尔多斯应用技术学院', 'enname': 'Ordos Institute of Technology', 'website': 'http://www.oit.edu.cn', 'introduce': '无'}
+{'name': '昌吉学院', 'enname': 'Changji University', 'website': 'http://www.cjc.edu.cn', 'introduce': '无'}
+{'name': '新疆工程学院', 'enname': 'Xinjiang Institute of Engineering', 'website': 'http://www.xjie.edu.cn', 'introduce': '无'}
+{'name': '菏泽学院', 'enname': 'Heze University', 'website': 'http://www.hezeu.edu.cn', 'introduce': '无'}
+{'name': '汉江师范学院', 'enname': 'Hanjiang Normal University', 'website': 'http://www.hjnu.edu.cn', 'introduce': '无'}
+{'name': '新疆理工学院', 'enname': 'Xinjiang Institute of Technology', 'website': 'http://www.kj.xju.edu.cn', 'introduce': '无'}
+{'name': '河南工学院', 'enname': 'Henan Institute of Technology', 'website': 'http://undefined', 'introduce': '无'}
+{'name': '昭通学院', 'enname': 'Zhaotong University', 'website': 'http://www.zttc.edu.cn', 'introduce': '无'}
+{'name': '陕西学前师范学院', 'enname': 'Shaanxi Xueqian Normal University', 'website': 'http://www.snsy.edu.cn', 'introduce': '无'}
+{'name': '山东女子学院', 'enname': "Shandong Women's University", 'website': 'http://www.sdwu.edu.cn', 'introduce': '无'}
+{'name': '豫章师范学院', 'enname': 'Yuzhang Normal University', 'website': 'http://www.yuznu.edu.cn', 'introduce': '无'}
+{'name': '琼台师范学院', 'enname': 'Qiongtai Normal University', 'website': 'http://undefined', 'introduce': '无'}
+{'name': '济宁学院', 'enname': 'Jining University', 'website': 'http://www.jnxy.edu.cn', 'introduce': '无'}
+{'name': '兰州工业学院', 'enname': 'Lanzhou Institute of Technology', 'website': 'http://www.lzit.edu.cn', 'introduce': '无'}
+{'name': '长沙师范学院', 'enname': 'Changsha Normal University', 'website': 'http://www.cssf.cn', 'introduce': '无'}
+{'name': '景德镇学院', 'enname': 'Jingdezhen University', 'website': 'http://www.jdzu.jx.cn', 'introduce': '无'}
+{'name': '滇西科技师范学院', 'enname': 'West Yunnan University', 'website': 'http://www.wynu.edu.cn', 'introduce': '无'}
+{'name': '陇东学院', 'enname': 'Long Dong University', 'website': 'http://www.ldxy.edu.cn', 'introduce': '无'}
+{'name': '运城学院', 'enname': 'Yuncheng University', 'website': 'http://www.ycu.edu.cn', 'introduce': '无'}
+{'name': '文山学院', 'enname': 'Wenshan University', 'website': 'http://www.wsu.edu.cn', 'introduce': '无'}
+{'name': '安康学院', 'enname': 'Ankang University', 'website': 'http://www.aku.edu.cn', 'introduce': '无'}
+{'name': '绥化学院', 'enname': 'Suihua University', 'website': 'http://www.shxy.edu.cn', 'introduce': '无'}
+{'name': '晋中学院', 'enname': 'Jinzhong University', 'website': 'http://www.sxjztc.edu.cn', 'introduce': '无'}
+{'name': '河北环境工程学院', 'enname': 'Hebei University of Environmental Engineering', 'website': 'http://www.emcc.cn', 'introduce': '无'}
+{'name': '郑州工程技术学院', 'enname': 'Zhengzhou Institute of Technology', 'website': 'http://undefined', 'introduce': '无'}
+{'name': '普洱学院', 'enname': 'Puer University', 'website': 'http://www.peuni.cn', 'introduce': '无'}
+{'name': '吉林农业科技学院', 'enname': 'Jilin Agricultural Science and Technology University', 'website': 'http://www.jlnku.com', 'introduce': '无'}
+{'name': '枣庄学院', 'enname': 'Zaozhuang University', 'website': 'http://www.uzz.edu.cn', 'introduce': '无'}
+{'name': '忻州师范学院', 'enname': 'Xinzhou Teachers University', 'website': 'http://www.xztc.edu.cn', 'introduce': '无'}
+{'name': '天水师范学院', 'enname': 'Tianshui Normal University', 'website': 'http://www.tsnu.edu.cn', 'introduce': '无'}
+{'name': '新余学院', 'enname': 'Xinyu University', 'website': 'http://www.xyc.edu.cn', 'introduce': '无'}
+{'name': '湖南人文科技学院', 'enname': 'Hunan University of Humanities, Science and Technology', 'website': 'http://www.huhst.edu.cn', 'introduce': '无'}
+{'name': '商洛学院', 'enname': 'Shangluo University', 'website': 'http://www.slxy.edu.cn', 'introduce': '无'}
+{'name': '太原工业学院', 'enname': 'Taiyuan Institute of Technology', 'website': 'http://www.tit.edu.cn', 'introduce': '无'}
+{'name': '保山学院', 'enname': 'Baoshan University', 'website': 'http://www.bsnc.cn', 'introduce': '无'}
+{'name': '河西学院', 'enname': 'HeXi University', 'website': 'http://www.hxu.edu.cn', 'introduce': '无'}
+{'name': '兴义民族师范学院', 'enname': 'Xingyi Normal University for Nationalities', 'website': 'http://www.xynun.edu.cn', 'introduce': '无'}
+{'name': '榆林学院', 'enname': 'Yulin University', 'website': 'http://www.yulinu.edu.cn', 'introduce': '无'}
+{'name': '兰州城市学院', 'enname': 'Lanzhou City University', 'website': 'http://www.lzcu.edu.cn', 'introduce': '无'}
+{'name': '百色学院', 'enname': 'Baise University', 'website': 'http://www.bsuc.cn', 'introduce': '无'}
+{'name': '湖南工学院', 'enname': 'Hunan Institute of Technology', 'website': 'http://www.hnit.edu.cn', 'introduce': '无'}
+{'name': '四川民族学院', 'enname': 'Sichuan University for Nationalities', 'website': 'http://www.scun.edu.cn', 'introduce': '无'}
+{'name': '桂林航天工业学院', 'enname': 'Guilin University of Aerospace Technology', 'website': 'http://guat.edu.cn', 'introduce': '无'}
+{'name': '河池学院', 'enname': 'Hechi University', 'website': 'http://www.hcnu.edu.cn', 'introduce': '无'}
+{'name': '安阳工学院', 'enname': 'Anyang Institute of Technology', 'website': 'http://www.ayit.edu.cn', 'introduce': '无'}
+{'name': '张家口学院', 'enname': 'Zhangjiakou University', 'website': 'http://www.zjku.edu.cn', 'introduce': '无'}
+{'name': '怀化学院', 'enname': 'Huaihua University', 'website': 'http://www.hhtc.edu.cn', 'introduce': '无'}
+{'name': '河南牧业经济学院', 'enname': 'Henan University of Animal Husbandry and Economy', 'website': 'http://www.hnuahe.edu.cn', 'introduce': '无'}
+{'name': '咸阳师范学院', 'enname': 'Xianyang Normal University', 'website': 'http://www.xysfxy.cn', 'introduce': '无'}
+{'name': '白城师范学院', 'enname': 'Baicheng Normal University', 'website': 'http://www.bcsfxy.com', 'introduce': '无'}
+{'name': '黑河学院', 'enname': 'Heihe University', 'website': 'http://www.hhxy.edu.cn', 'introduce': '无'}
+{'name': '贺州学院', 'enname': 'Hezhou University', 'website': 'http://www.hzu.gx.cn', 'introduce': '无'}
+{'name': '齐鲁师范学院', 'enname': 'Qilu Normal University', 'website': 'http://www.qlnu.edu.cn', 'introduce': '无'}
+{'name': '巢湖学院', 'enname': 'Chaohu University', 'website': 'http://www.chu.edu.cn', 'introduce': '无'}
+{'name': '喀什大学', 'enname': 'Kashi University', 'website': 'http://www.ksu.edu.cn', 'introduce': '无'}
+{'name': '渭南师范学院', 'enname': 'Weinan Normal University', 'website': 'http://www.wnu.edu.cn', 'introduce': '无'}
+{'name': '河南工程学院', 'enname': 'Henan University of Engineering', 'website': 'http://www.haue.edu.cn', 'introduce': '无'}
+{'name': '湘南学院', 'enname': 'Xiangnan University', 'website': 'http://www.xnu.edu.cn', 'introduce': '无'}
+{'name': '衡水学院', 'enname': 'Hengshui University', 'website': 'http://www.hsnc.edu.cn', 'introduce': '无'}
+{'name': '蚌埠学院', 'enname': 'Bengbu University', 'website': 'http://www.bbxy.edu.cn', 'introduce': '无'}
+{'name': '宿州学院', 'enname': 'Suzhou University', 'website': 'http://www.ahszu.edu.cn', 'introduce': '无'}
+{'name': '大庆师范学院', 'enname': 'Daqing Normal University', 'website': 'http://www.dqsy.net', 'introduce': '无'}
+{'name': '荆楚理工学院', 'enname': 'Jingchu University of Technology', 'website': 'http://www.jcut.edu.cn', 'introduce': '无'}
+{'name': '平顶山学院', 'enname': 'Pingdingshan University', 'website': 'http://www.pdsu.edu.cn', 'introduce': '无'}
+{'name': '邵阳学院', 'enname': 'Shaoyang University', 'website': 'http://www.hnsyu.net', 'introduce': '无'}
+{'name': '通化师范学院', 'enname': 'Tonghua Normal University', 'website': 'http://www.thnu.edu.cn', 'introduce': '无'}
+{'name': '梧州学院', 'enname': 'Wuzhou University', 'website': 'http://www.gxuwz.edu.cn', 'introduce': '无'}
+{'name': '西安文理学院', 'enname': "Xi'an University", 'website': 'http://www.xawl.org', 'introduce': '无'}
+{'name': '泰山学院', 'enname': 'Taishan University', 'website': 'http://www.tsu.edu.cn', 'introduce': '无'}
+{'name': '广州航海学院', 'enname': 'Guangzhou Maritime University', 'website': 'http://www.gzhmt.edu.cn', 'introduce': '无'}
+{'name': '淮南师范学院', 'enname': 'Huainan Normal University', 'website': 'http://www.hnnu.edu.cn', 'introduce': '无'}
+{'name': '池州学院', 'enname': 'Chizhou University', 'website': 'http://czu.edu.cn', 'introduce': '无'}
+{'name': '山东青年政治学院', 'enname': 'Shandong Youth University of Political Science', 'website': 'http://www.sdyu.edu.cn', 'introduce': '无'}
+{'name': '六盘水师范学院', 'enname': 'Liupanshui Normal University', 'website': 'http://www.lpssy.edu.cn', 'introduce': '无'}
+{'name': '贵州工程应用技术学院', 'enname': 'Guizhou University of Engineering Science', 'website': 'http://www.gzbjc.cn', 'introduce': '无'}
+{'name': '沧州师范学院', 'enname': 'Cangzhou Normal University', 'website': 'http://www.caztc.edu.cn', 'introduce': '无'}
+{'name': '伊犁师范大学', 'enname': 'Yili Normal University', 'website': 'http://www.ylsy.edu.cn', 'introduce': '无'}
+{'name': '广西民族师范学院', 'enname': 'Guangxi Normal University for Nationalities', 'website': 'http://www.gxnu', 'introduce': '无'}
+{'name': '河北民族师范学院', 'enname': 'Hebei Normal University for Nationalities', 'website': 'http://www.hbun.net', 'introduce': '无'}
+{'name': '西昌学院', 'enname': 'Xichang College', 'website': 'http://www.xcc.sc.cn', 'introduce': '无'}
+{'name': '南昌师范学院', 'enname': 'Nanchang Normal University', 'website': 'http://www.ncnu.edu.cn', 'introduce': '无'}
+{'name': '海南热带海洋学院', 'enname': 'Hainan Tropical Ocean University', 'website': 'http://www.qzu.edu.cn', 'introduce': '无'}
+{'name': '宁夏师范学院', 'enname': 'Ningxia Normal University', 'website': 'http://www.nxtu.cn', 'introduce': '无'}
+{'name': '吉林工程技术师范学院', 'enname': 'Jilin Engineering Normal University', 'website': 'http://www.jltiet.net', 'introduce': '无'}
+{'name': '信阳农林学院', 'enname': 'Xinyang Agriculture and Forestry University', 'website': 'http://www.xyafc.edu.cn', 'introduce': '无'}
+{'name': '楚雄师范学院', 'enname': 'Chuxiong Normal University', 'website': 'http://www.cxtc.edu.cn', 'introduce': '无'}
+{'name': '宁德师范学院', 'enname': 'Ningde Normal University', 'website': 'http://www.ndsy.cn', 'introduce': '无'}
+{'name': '滨州学院', 'enname': 'Binzhou University', 'website': 'http://www.bzu.edu.cn', 'introduce': '无'}
+{'name': '内蒙古科技大学包头师范学院', 'enname': "Baotou Teachers' College", 'website': 'http://undefined', 'introduce': '无'}
+{'name': '黔南民族师范学院', 'enname': 'Qiannan Normal College for Nationalities', 'website': 'http://www.sgmtu.edu.cn', 'introduce': '无'}
+{'name': '四川文理学院', 'enname': 'Sichuan University of Arts and Science', 'website': 'http://www.sasu.cn', 'introduce': '无'}
+{'name': '红河学院', 'enname': 'Honghe University', 'website': 'http://www.uoh.edu.cn', 'introduce': '无'}
+{'name': '赤峰学院', 'enname': 'Chifeng University', 'website': 'http://www.cfxy.cn', 'introduce': '无'}
+{'name': '皖西学院', 'enname': 'West AnHui University', 'website': 'http://www.wxc.edu.cn', 'introduce': '无'}
+{'name': '四川旅游学院', 'enname': 'Sichuan Tourism University', 'website': 'http://www.sctu.edu.cn', 'introduce': '无'}
+{'name': '湖南科技学院', 'enname': 'Hunan University of Science and Engineering', 'website': 'http://www.huse.edu.cn', 'introduce': '无'}
+{'name': '呼伦贝尔学院', 'enname': 'Hulunbuir University', 'website': 'http://www.hlbec.edu.cn', 'introduce': '无'}
+{'name': '邯郸学院', 'enname': 'Handan College', 'website': 'http://www.hdc.edu.cn', 'introduce': '无'}
+{'name': '邢台学院', 'enname': 'Xingtai University', 'website': 'http://www.xttc.edu.cn', 'introduce': '无'}
+{'name': '成都师范学院', 'enname': 'Chengdu Normal University', 'website': 'http://www.cdnu.edu.cn', 'introduce': '无'}
+{'name': '辽宁科技学院', 'enname': 'Liaoning Institute of Science and Technology', 'website': 'http://www.lnist.edu.cn', 'introduce': '无'}
+{'name': '辽东学院', 'enname': 'Eastern Liaoning University', 'website': 'http://www.ldxy.cn', 'introduce': '无'}
+{'name': '新乡学院', 'enname': 'Xinxiang University', 'website': 'http://www.xxu.edu.cn', 'introduce': '无'}
+{'name': '上饶师范学院', 'enname': 'Shangrao Normal University', 'website': 'http://www.sru.edu.cn', 'introduce': '无'}
+{'name': '武夷学院', 'enname': 'Wuyi University', 'website': 'http://www.wuyiu.edu.cn', 'introduce': '无'}
+{'name': '哈尔滨学院', 'enname': 'Harbin University', 'website': 'http://www.hrbu.edu.cn', 'introduce': '无'}
+{'name': '嘉应学院', 'enname': 'Jiaying University', 'website': 'http://www.jyu.edu.cn', 'introduce': '无'}
+{'name': '黄淮学院', 'enname': 'Huanghuai University', 'website': 'http://www.huanghuai.edu.cn', 'introduce': '无'}
+{'name': '潍坊学院', 'enname': 'Weifang University', 'website': 'http://www.wfu.edu.cn', 'introduce': '无'}
+{'name': '长春工程学院', 'enname': 'Changchun Institute of Technology', 'website': 'http://www.ccit.edu.cn', 'introduce': '无'}
+{'name': '山东交通学院', 'enname': 'Shandong Jiaotong University', 'website': 'http://www.sdjtu.edu.cn', 'introduce': '无'}
+{'name': '遵义师范学院', 'enname': 'Zunyi Normal University', 'website': 'http://www.zync.edu.cn', 'introduce': '无'}
+{'name': '宜宾学院', 'enname': 'Yibin University', 'website': 'http://www.yibinu.cn', 'introduce': '无'}
+{'name': '牡丹江师范学院', 'enname': 'Mudanjiang Normal University', 'website': 'http://xywz.mdjnu.cn', 'introduce': '无'}
+{'name': '河南城建学院', 'enname': 'Henan University of Urban Construction', 'website': 'http://www.hncj.edu.cn', 'introduce': '无'}
+{'name': '德州学院', 'enname': 'Dezhou University', 'website': 'http://www.dzu.edu.cn', 'introduce': '无'}
+{'name': '安顺学院', 'enname': 'Anshun University', 'website': 'http://www.asu.edu.cn', 'introduce': '无'}
+{'name': '唐山学院', 'enname': 'Tangshan College', 'website': 'http://www.tsc.edu.cn', 'introduce': '无'}
+{'name': '三明学院', 'enname': 'Sanming University', 'website': 'http://www.smc.edu.cn', 'introduce': '无'}
+{'name': '鞍山师范学院', 'enname': 'Anshan Normal University Liaoning China', 'website': 'http://www.asnc.edu.cn', 'introduce': '无'}
+{'name': '保定学院', 'enname': 'Baoding University', 'website': 'http://www.bdu.edu.cn', 'introduce': '无'}
+{'name': '玉溪师范学院', 'enname': 'Yuxi Normal University', 'website': 'http://www.yxnu.net', 'introduce': '无'}
+{'name': '昆明学院', 'enname': 'Kunming University', 'website': 'http://www.kmu.edu.cn', 'introduce': '无'}
+{'name': '营口理工学院', 'enname': 'YingKou Institute of Technology', 'website': 'http://www.yku.edu.cn', 'introduce': '无'}
+{'name': '廊坊师范学院', 'enname': 'Langfang Teachers University', 'website': 'http://www.lfsfxy.edu.cn', 'introduce': '无'}
+{'name': '山西大同大学', 'enname': 'Shanxi Datong University', 'website': 'http://www.sxdtdx.edu.cn', 'introduce': '无'}
+{'name': '南阳理工学院', 'enname': 'Nanyang Institute of Technology', 'website': 'http://www.nyist.edu.cn', 'introduce': '无'}
+{'name': '周口师范学院', 'enname': 'Zhoukou Normal University', 'website': 'http://www.zknu.edu.cn', 'introduce': '无'}
+{'name': '太原师范学院', 'enname': 'Taiyuan Normal University', 'website': 'http://www.tynu.edu.cn', 'introduce': '无'}
+{'name': '龙岩学院', 'enname': 'Longyan University', 'website': 'http://www.lyun.edu.cn', 'introduce': '无'}
+{'name': '吉林化工学院', 'enname': 'Jilin Institute of Chemical Technology', 'website': 'http://www.jlict.edu.cn', 'introduce': '无'}
+{'name': '贵阳学院', 'enname': 'Guiyang University', 'website': 'http://www.gyu.cn', 'introduce': '无'}
+{'name': '浙江水利水电学院', 'enname': 'Zhejiang University of Water Resources and Electric Power', 'website': 'http://www.zjweu.edu.cn', 'introduce': '无'}
+{'name': '泰州学院', 'enname': 'Taizhou University', 'website': 'http://www.tzu.edu.cn', 'introduce': '无'}
+{'name': '衢州学院', 'enname': 'Quzhou University', 'website': 'http://www.qzu.zj.cn', 'introduce': '无'}
+{'name': '宜春学院', 'enname': 'Yichun University', 'website': 'http://www.jxycu.edu.cn', 'introduce': '无'}
+{'name': '湖南城市学院', 'enname': 'Hunan City University', 'website': 'http://www.hncu.net', 'introduce': '无'}
+{'name': '攀枝花学院', 'enname': 'Panzhihua University', 'website': 'http://www.pzhu.cn', 'introduce': '无'}
+{'name': '韶关学院', 'enname': 'Shaoguan University', 'website': 'http://www.sgu.edu.cn', 'introduce': '无'}
+{'name': '商丘师范学院', 'enname': 'Shangqiu Normal University', 'website': 'http://www.sqnc.edu.cn', 'introduce': '无'}
+{'name': '莆田学院', 'enname': 'Putian University', 'website': 'http://www.ptu.edu.cn', 'introduce': '无'}
+{'name': '凯里学院', 'enname': 'Kaili University', 'website': 'http://www.kluniv.cn', 'introduce': '无'}
+{'name': '滁州学院', 'enname': 'Chuzhou University', 'website': 'http://www.chzu.edu.cn', 'introduce': '无'}
+{'name': '许昌学院', 'enname': 'Xuchang University', 'website': 'http://www.xcu.edu.cn', 'introduce': '无'}
+{'name': '内江师范学院', 'enname': 'Neijiang Normal University', 'website': 'http://www.njtc.edu.cn', 'introduce': '无'}
+{'name': '韩山师范学院', 'enname': 'Hanshan Normal University', 'website': 'http://www.hstc.edu.cn', 'introduce': '无'}
+{'name': '贵州理工学院', 'enname': 'Guizhou Institute of Technology', 'website': 'http://www.git.edu.cn', 'introduce': '无'}
+{'name': '湖南工程学院', 'enname': 'Hunan Institute of Engineering', 'website': 'http://www.hnie.edu.cn', 'introduce': '无'}
+{'name': '湖南文理学院', 'enname': 'Hunan University of Arts and Science', 'website': 'http://www.huas.cn', 'introduce': '无'}
+{'name': '安徽科技学院', 'enname': 'Anhui Science and Technology University', 'website': 'http://www.ahstu.edu.cn', 'introduce': '无'}
+{'name': '重庆第二师范学院', 'enname': 'Chongqing University of Education', 'website': 'http://www.cque.edu.cn', 'introduce': '无'}
+{'name': '郑州师范学院', 'enname': 'Zhengzhou Normal University', 'website': 'http://www.zznu.edu.cn', 'introduce': '无'}
+{'name': '泉州师范学院', 'enname': 'Quanzhou Normal University', 'website': 'http://www.qztc.edu.cn', 'introduce': '无'}
+{'name': '华北科技学院', 'enname': 'North China Institute of Science and Technology', 'website': 'http://www.ncist.edu.cn', 'introduce': '无'}
+{'name': '绵阳师范学院', 'enname': "Mianyang Teachers' College", 'website': 'http://www.mnu.cn', 'introduce': '无'}
+{'name': '九江学院', 'enname': 'Jiujiang University', 'website': 'http://www.jju.edu.cn', 'introduce': '无'}
+{'name': '玉林师范学院', 'enname': 'Yulin Normal University', 'website': 'http://www.ylu.edu.cn', 'introduce': '无'}
+{'name': '宝鸡文理学院', 'enname': 'Baoji University of Arts and Sciences', 'website': 'http://www.bjwlxy.cn', 'introduce': '无'}
+{'name': '唐山师范学院', 'enname': 'Tangshan Normal University', 'website': 'http://www.tstc.edu.cn', 'introduce': '无'}
+{'name': '陕西理工大学', 'enname': 'Shaanxi University of Technology', 'website': 'http://www.snut.edu.cn', 'introduce': '无'}
+{'name': '沈阳工程学院', 'enname': 'Shenyang Institute of Engineering', 'website': 'http://www.sie.edu.cn', 'introduce': '无'}
+{'name': '曲靖师范学院', 'enname': 'Qujing Normal University', 'website': 'http://www.qjnu.edu.cn', 'introduce': '无'}
+{'name': '黑龙江工程学院', 'enname': 'Heilongjiang Institute of Technology', 'website': 'http://www.hljit.edu.cn', 'introduce': '无'}
+{'name': '河南科技学院', 'enname': 'Henan Institute of Science and Technology', 'website': 'http://www.hist.edu.cn', 'introduce': '无'}
+{'name': '防灾科技学院', 'enname': 'Institute of Disaster Prevention', 'website': 'http://www.cidp.edu.cn', 'introduce': '无'}
+{'name': '成都工业学院', 'enname': 'Chengdu Technological University', 'website': 'http://www.cec.edu.cn', 'introduce': '无'}
+{'name': '铜仁学院', 'enname': 'Tongren University', 'website': 'http://www.gztrc.edu.cn', 'introduce': '无'}
+{'name': '中国民用航空飞行学院', 'enname': 'Civil Aviation Flight University of China', 'website': 'http://www.cafuc.edu.cn', 'introduce': '无'}
+{'name': '湖北工程学院', 'enname': 'Hubei Engineering University', 'website': 'http://www.hbeu.cn', 'introduce': '无'}
+{'name': '石家庄学院', 'enname': 'Shijiazhuang University', 'website': 'http://www.sjzc.edu.cn', 'introduce': '无'}
+{'name': '湖北理工学院', 'enname': 'Hubei Polytechnic University', 'website': 'http://www.hbpu.edu.cn', 'introduce': '无'}
+{'name': '乐山师范学院', 'enname': 'Leshan Normal University', 'website': 'http://www.lstc.edu.cn', 'introduce': '无'}
+{'name': '阜阳师范大学', 'enname': 'Fuyang Normal University', 'website': 'http://www.fync.edu.cn', 'introduce': '无'}
+{'name': '长春师范大学', 'enname': 'Changchun Normal University', 'website': 'http://www.ccsfu.edu.cn', 'introduce': '无'}
+{'name': '重庆三峡学院', 'enname': 'Chongqing Three Gorges University', 'website': 'http://www.sanxiau.net', 'introduce': '无'}
+{'name': '衡阳师范学院', 'enname': 'Hengyang Normal University', 'website': 'http://www.hynu.cn', 'introduce': '无'}
+{'name': '湖北汽车工业学院', 'enname': 'Hubei University of Automotive Technology', 'website': 'http://www.huat.edu.cn', 'introduce': '无'}
+{'name': '肇庆学院', 'enname': 'Zhaoqing University', 'website': 'http://www.zqu.edu.cn', 'introduce': '无'}
+{'name': '湖南第一师范学院', 'enname': 'Hunan First Normal University', 'website': 'http://www.hnfnu.edu.cn', 'introduce': '无'}
+{'name': '北部湾大学', 'enname': 'Beibu Gulf University', 'website': 'http://undefined', 'introduce': '无'}
+{'name': '洛阳理工学院', 'enname': 'Luoyang Institute of Science and Technology', 'website': 'http://www.lit.edu.cn', 'introduce': '无'}
+{'name': '丽水学院', 'enname': 'Lishui University', 'website': 'http://www.lsu.edu.cn', 'introduce': '无'}
+{'name': '黄冈师范学院', 'enname': 'Huanggang Normal University', 'website': 'http://www.hgnc.net', 'introduce': '无'}
+{'name': '广东石油化工学院', 'enname': 'Guangdong University of Petrochemical Technology', 'website': 'http://www.gdupt.edu.cn', 'introduce': '无'}
+{'name': '广东第二师范学院', 'enname': 'Guangdong University of Education', 'website': 'http://www.gdei.edu.cn', 'introduce': '无'}
+{'name': '北华航天工业学院', 'enname': 'North China Institute of Aerospace Engineering', 'website': 'http://www.nciae.edu.cn', 'introduce': '无'}
+{'name': '惠州学院', 'enname': 'Huizhou University', 'website': 'http://www.hzu.edu.cn', 'introduce': '无'}
+{'name': '西藏农牧学院', 'enname': 'Tibet Agriculture and Animal Husbandry University', 'website': 'http://www.xza.cn', 'introduce': '无'}
+{'name': '河北建筑工程学院', 'enname': 'Hebei University of Architecture', 'website': 'http://www.hebiace.edu.cn', 'introduce': '无'}
+{'name': '南阳师范学院', 'enname': 'Nanyang Normal University', 'website': 'http://www.nynu.edu.cn', 'introduce': '无'}
+{'name': '上海电机学院', 'enname': 'Shanghai Dianji University', 'website': 'http://www.sdju.edu.cn', 'introduce': '无'}
+{'name': '佳木斯大学', 'enname': 'Jiamusi University', 'website': 'http://www.jmsu.org', 'introduce': '无'}
+{'name': '洛阳师范学院', 'enname': 'Luoyang Normal University', 'website': 'http://www.lynu.cn', 'introduce': '无'}
+{'name': '贵州师范学院', 'enname': 'Guizhou Normal College', 'website': 'http://www.gznc.edu.cn', 'introduce': '无'}
+{'name': '长春大学', 'enname': 'Changchun University', 'website': 'http://www.ccu.edu.cn', 'introduce': '无'}
+{'name': '广西科技大学', 'enname': 'Guangxi University of Science and Technology', 'website': 'http://www.gxut.edu.cn', 'introduce': '无'}
+{'name': '岭南师范学院', 'enname': 'LingNan Normal University', 'website': 'http://www.lingnan.edu.cn', 'introduce': '无'}
+{'name': '井冈山大学', 'enname': 'Jinggangshan University', 'website': 'http://www.jgsu.edu.cn', 'introduce': '无'}
+{'name': '常州工学院', 'enname': 'Changzhou Institute of Technology', 'website': 'http://www.czu.cn', 'introduce': '无'}
+{'name': '徐州工程学院', 'enname': 'Xuzhou Institute of Technology', 'website': 'http://www.xzit.edu.cn', 'introduce': '无'}
+{'name': '塔里木大学', 'enname': 'Tarim University', 'website': 'http://www.taru.edu.cn', 'introduce': '无'}
+{'name': '合肥师范学院', 'enname': 'Hefei Normal University', 'website': 'http://www.hftc.edu.cn', 'introduce': '无'}
+{'name': '长沙学院', 'enname': 'Changsha University', 'website': 'http://www.ccsu.cn', 'introduce': '无'}
+{'name': '江苏第二师范学院', 'enname': 'Jiangsu Second Normal University', 'website': 'http://www.jsie.edu.cn', 'introduce': '无'}
+{'name': '安阳师范学院', 'enname': 'Anyang Normal University', 'website': 'http://www.aynu.edu.cn', 'introduce': '无'}
+{'name': '浙江万里学院', 'enname': 'Zhejiang Wanli University', 'website': 'http://www.zjwu.net', 'introduce': '无'}
+{'name': '湖北第二师范学院', 'enname': 'Hubei University of Education', 'website': 'http://www.hue.edu.cn', 'introduce': '无'}
+{'name': '青海师范大学', 'enname': 'Qinghai Normal University', 'website': 'http://www.qhnu.edu.cn', 'introduce': '无'}
+{'name': '河北科技师范学院', 'enname': 'Hebei Normal University of Science and Technology', 'website': 'http://www.hevttc.edu.cn', 'introduce': '无'}
+{'name': '齐齐哈尔大学', 'enname': 'Qiqihar University', 'website': 'http://www.qqhru.edu.cn', 'introduce': '无'}
+{'name': '吉林建筑大学', 'enname': 'Jilin Jianzhu University', 'website': 'http://www.jliae.edu.cn', 'introduce': '无'}
+{'name': '湖北文理学院', 'enname': 'Hubei University of Arts and Science', 'website': 'http://www.hbuas.edu.cn', 'introduce': '无'}
+{'name': '临沂大学', 'enname': 'Linyi University', 'website': 'http://www.lyu.edu.cn', 'introduce': '无'}
+{'name': '金陵科技学院', 'enname': 'Jinling Institute of Technology', 'website': 'http://www.jit.edu.cn', 'introduce': '无'}
+{'name': '重庆文理学院', 'enname': 'Chongqing University of Arts and Science', 'website': 'http://www.cqwu.edu.cn', 'introduce': '无'}
+{'name': '湖北科技学院', 'enname': 'Hubei University of Science and Technology', 'website': 'http://www.hbust.com.cn', 'introduce': '无'}
+{'name': '南京晓庄学院', 'enname': 'Nanjing XiaoZhuang University', 'website': 'http://www.njxzc.edu.cn', 'introduce': '无'}
+{'name': '长江师范学院', 'enname': 'Yangtze Normal University', 'website': 'http://www.yznu.cn', 'introduce': '无'}
+{'name': '南昌工程学院', 'enname': 'Nanchang Institute of Technology', 'website': 'http://www.nit.edu.cn', 'introduce': '无'}
+{'name': '太原科技大学', 'enname': 'Taiyuan University of Science and Technology', 'website': 'http://www.tyust.edu.cn', 'introduce': '无'}
+{'name': '仲恺农业工程学院', 'enname': 'Zhongkai University of Agriculture and Engineering', 'website': 'http://www.zhku.edu.cn', 'introduce': '无'}
+{'name': '北华大学', 'enname': 'Beihua University', 'website': 'http://www.beihua.edu.cn', 'introduce': '无'}
+{'name': '台州学院', 'enname': 'Taizhou University', 'website': 'http://www.tzc.edu.cn', 'introduce': '无'}
+{'name': '黑龙江科技大学', 'enname': 'Heilongjiang University of Science and Technology', 'website': 'http://www.usth.edu.cn', 'introduce': '无'}
+{'name': '闽南师范大学', 'enname': 'Minnan Normal University', 'website': 'http://www.mnnu.edu.cn', 'introduce': '无'}
+{'name': '江苏海洋大学', 'enname': 'Huaihai Institute of Technology', 'website': 'http://www.hhit.edu.cn', 'introduce': '无'}
+{'name': '江西科技师范大学', 'enname': 'Jiangxi Science and Technology Normal University', 'website': 'http://www.jxstnu.edu.cn', 'introduce': '无'}
+{'name': '淮阴工学院', 'enname': 'Huaiyin Institute of Technology', 'website': 'http://www.hyit.edu.cn', 'introduce': '无'}
+{'name': '湖南理工学院', 'enname': 'Hunan Institute of Science and Technology', 'website': 'http://www.hnist.cn', 'introduce': '无'}
+{'name': '闽江学院', 'enname': 'Minjiang University', 'website': 'http://www.mju.edu.cn', 'introduce': '无'}
+{'name': '天津职业技术师范大学', 'enname': 'TianJin University of Technology and Education', 'website': 'http://www.tute.edu.cn', 'introduce': '无'}
+{'name': '内蒙古民族大学', 'enname': 'Inner Mongolia University for Nationalities', 'website': 'http://www.imun.edu.cn', 'introduce': '无'}
+{'name': '天津农学院', 'enname': 'Tianjin Agricultural University', 'website': 'http://www.tjau.edu.cn', 'introduce': '无'}
+{'name': '延安大学', 'enname': "Yan'an University", 'website': 'http://www.yau.edu.cn', 'introduce': '无'}
+{'name': '内蒙古科技大学', 'enname': 'Inner Mongolia University of Science & Technology', 'website': 'http://www.imust.cn', 'introduce': '无'}
+{'name': '黑龙江八一农垦大学', 'enname': 'Heilongjiang Bayi Agricultural University', 'website': 'http://www.byau.edu.cn', 'introduce': '无'}
+{'name': '四川轻化工大学', 'enname': 'Sichuan University of Science and Engineering', 'website': 'http://www.suse.edu.cn', 'introduce': '无'}
+{'name': '大理大学', 'enname': 'Dali University', 'website': 'http://www.dali.edu.cn', 'introduce': '无'}
+{'name': '福建工程学院', 'enname': 'Fujian University of Technology', 'website': 'http://www.fjut.edu.cn', 'introduce': '无'}
+{'name': '上海第二工业大学', 'enname': 'Shanghai Second Polytechnic University', 'website': 'http://www.sspu.edu.cn', 'introduce': '无'}
+{'name': '广东海洋大学', 'enname': 'Guangdong Ocean University', 'website': 'http://www.gdou.edu.cn', 'introduce': '无'}
+{'name': '常熟理工学院', 'enname': 'Changshu Institute of Technology', 'website': 'http://www.cslg.cn', 'introduce': '无'}
+{'name': '五邑大学', 'enname': 'Wuyi University', 'website': 'http://www.wyu.edu.cn', 'introduce': '无'}
+{'name': '盐城工学院', 'enname': 'Yancheng Institute of Technology', 'website': 'http://www.ycit.edu.cn', 'introduce': '无'}
+{'name': '淮阴师范学院', 'enname': 'Huaiyin Normal University', 'website': 'http://www.hytc.edu.cn', 'introduce': '无'}
+{'name': '西南林业大学', 'enname': 'Southwest Forestry University', 'website': 'http://www.swfu.edu.cn', 'introduce': '无'}
+{'name': '嘉兴学院', 'enname': 'Jiaxing University', 'website': 'http://www.zjxu.edu.cn', 'introduce': '无'}
+{'name': '沈阳大学', 'enname': 'Shenyang University', 'website': 'http://www.syu.edu.cn', 'introduce': '无'}
+{'name': '淮北师范大学', 'enname': 'Huaibei Normal University', 'website': 'http://www.chnu.edu.cn', 'introduce': '无'}
+{'name': '盐城师范学院', 'enname': 'Yancheng Teachers University', 'website': 'http://www.yctu.edu.cn', 'introduce': '无'}
+{'name': '宁波工程学院', 'enname': 'Ningbo University of Technology', 'website': 'http://www.nbut.edu.cn', 'introduce': '无'}
+{'name': '江苏理工学院', 'enname': 'Jiangsu University of Technology', 'website': 'http://www.jstu.edu.cn', 'introduce': '无'}
+{'name': '安庆师范大学', 'enname': 'Anqing Normal University', 'website': 'http://www.aqnu.edu.cn', 'introduce': '无'}
+{'name': '广东技术师范大学', 'enname': 'Guangdong Polytechnic Normal University', 'website': 'http://www.gpnu.edu.cn', 'introduce': '无'}
+{'name': '重庆科技学院', 'enname': 'Chongqing University of Science and Technology', 'website': 'http://www.cqust.edu.cn', 'introduce': '无'}
+{'name': '赣南师范大学', 'enname': 'GanNan Normal University', 'website': 'http://www.gnnu.cn', 'introduce': '无'}
+{'name': '天津城建大学', 'enname': 'Tianjin Chengjian University', 'website': 'http://www.tcu.edu.cn', 'introduce': '无'}
+{'name': '安徽工程大学', 'enname': 'Anhui Polytechnic University', 'website': 'http://www.ahpu.edu.cn', 'introduce': '无'}
+{'name': '浙江科技学院', 'enname': 'Zhejiang University of Science and Technology', 'website': 'http://www.zust.edu.cn', 'introduce': '无'}
+{'name': '山西农业大学', 'enname': 'Shanxi Agricultural University', 'website': 'http://www.sxau.edu.cn', 'introduce': '无'}
+{'name': '景德镇陶瓷大学', 'enname': 'Jingdezhen Ceramic Institute', 'website': 'http://www.jci.edu.cn', 'introduce': '无'}
+{'name': '辽宁石油化工大学', 'enname': 'Liaoning shihua University', 'website': 'http://www.lnpu.edu.cn', 'introduce': '无'}
+{'name': '甘肃农业大学', 'enname': 'Gansu Agricultural University', 'website': 'http://www.gsau.edu.cn', 'introduce': '无'}
+{'name': '新疆农业大学', 'enname': 'Xinjiang Agricultural University', 'website': 'http://www.xjau.edu.cn', 'introduce': '无'}
+{'name': '中原工学院', 'enname': 'Zhongyuan University of Technology', 'website': 'http://www.zzti.edu.cn', 'introduce': '无'}
+{'name': '长春工业大学', 'enname': 'Changchun University of Technology', 'website': 'http://www.ccut.edu.cn', 'introduce': '无'}
+{'name': '聊城大学', 'enname': 'Liaocheng University', 'website': 'http://www.lcu.edu.cn', 'introduce': '无'}
+{'name': '云南农业大学', 'enname': 'Yunnan Agricultural University', 'website': 'http://www.ynau.edu.cn', 'introduce': '无'}
+{'name': '内蒙古师范大学', 'enname': 'Inner Mongolia Normal University', 'website': 'http://www.imnu.edu.cn', 'introduce': '无'}
+{'name': '沈阳理工大学', 'enname': 'Shenyang Ligong University', 'website': 'http://www.sylu.edu.cn', 'introduce': '无'}
+{'name': '湖北师范大学', 'enname': 'Hubei Normal University', 'website': 'http://www.hbnu.edu.cn', 'introduce': '无'}
+{'name': '辽宁科技大学', 'enname': 'University of Science and Technology Liaoning', 'website': 'http://www.ustl.edu.cn', 'introduce': '无'}
+{'name': '河北工程大学', 'enname': 'Hebei University of Engineering', 'website': 'http://www.hebeu.edu.cn', 'introduce': '无'}
+{'name': '合肥学院', 'enname': 'Hefei University', 'website': 'http://www.hfuu.edu.cn', 'introduce': '无'}
+{'name': '南宁师范大学', 'enname': 'Guangxi Teachers Education University', 'website': 'http://www.gxtc.edu.cn', 'introduce': '无'}
+{'name': '绍兴文理学院', 'enname': 'Shaoxing University', 'website': 'http://www.usx.edu.cn', 'introduce': '无'}
+{'name': '上海海关学院', 'enname': 'Shanghai Customs College', 'website': 'http://shanghai_edu.customs.gov.cn', 'introduce': '无'}
+{'name': '吉林师范大学', 'enname': 'Jilin Normal University', 'website': 'http://www.jlnu.edu.cn', 'introduce': '无'}
+{'name': '辽宁工程技术大学', 'enname': 'Liaoning Technical University', 'website': 'http://www.lntu.edu.cn', 'introduce': '无'}
+{'name': '北京石油化工学院', 'enname': 'Beijing Institute of Petrochemical Technology', 'website': 'http://www.bipt.edu.cn', 'introduce': '无'}
+{'name': '南京工程学院', 'enname': 'Nanjing Institute of Technology', 'website': 'http://www.njit.edu.cn', 'introduce': '无'}
+{'name': '吉首大学', 'enname': 'Jishou University', 'website': 'http://www.jsu.edu.cn', 'introduce': '无'}
+{'name': '成都大学', 'enname': 'Chengdu University', 'website': 'http://www.cdu.edu.cn', 'introduce': '无'}
+{'name': '湖州师范学院', 'enname': 'Huzhou University', 'website': 'http://www.zjhu.edu.cn', 'introduce': '无'}
+{'name': '西安工业大学', 'enname': "Xi'an Technological University", 'website': 'http://www.xatu.cn', 'introduce': '无'}
+{'name': '北京联合大学', 'enname': 'Beijing Union University', 'website': 'http://www.buu.edu.cn', 'introduce': '无'}
+{'name': '新疆师范大学', 'enname': 'Xinjiang Normal University', 'website': 'http://www.xjnu.edu.cn', 'introduce': '无'}
+{'name': '内蒙古工业大学', 'enname': 'Inner Mongolia University of Technology', 'website': 'http://www.imut.edu.cn', 'introduce': '无'}
+{'name': '北京印刷学院', 'enname': 'Beijing Institute of Graphic Communication', 'website': 'http://www.bigc.edu.cn', 'introduce': '无'}
+{'name': '湖南工业大学', 'enname': 'Hunan University of Technology', 'website': 'http://www.hut.edu.cn', 'introduce': '无'}
+{'name': '西安工程大学', 'enname': "Xi'an Polytechnic University", 'website': 'http://www.xpu.edu.cn', 'introduce': '无'}
+{'name': '西安石油大学', 'enname': "Xi'an Shiyou University", 'website': 'http://www.xsyu.edu.cn', 'introduce': '无'}
+{'name': '山西师范大学', 'enname': 'Shanxi Normal University', 'website': 'http://www.sxnu.edu.cn', 'introduce': '无'}
+{'name': '西华大学', 'enname': 'Xihua University', 'website': 'http://www.xhu.edu.cn', 'introduce': '无'}
+{'name': '信阳师范学院', 'enname': 'Xinyang Normal University', 'website': 'http://www.xynu.edu.cn', 'introduce': '无'}
+{'name': '江西理工大学', 'enname': 'Jiangxi University of Science and Technology', 'website': 'http://www.jxust.cn', 'introduce': '无'}
+{'name': '安徽建筑大学', 'enname': 'Anhui jianzhu University', 'website': 'http://www.ahjzu.edu.cn', 'introduce': '无'}
+{'name': '青岛理工大学', 'enname': 'Qingdao University of Technology', 'website': 'http://www.qut.edu.cn', 'introduce': '无'}
+{'name': '山东理工大学', 'enname': 'Shandong University of Technology', 'website': 'http://www.sdut.edu.cn', 'introduce': '无'}
+{'name': '青海大学', 'enname': 'Qinghai University', 'website': 'http://www.qhu.edu.cn', 'introduce': '无'}
+{'name': '西华师范大学', 'enname': 'China West Normal University', 'website': 'http://www.cwnu.edu.cn', 'introduce': '无'}
+{'name': '贵州师范大学', 'enname': 'Guizhou Normal University', 'website': 'http://www.gznu.edu.cn', 'introduce': '无'}
+{'name': '青岛农业大学', 'enname': 'Qingdao Agricultural University', 'website': 'http://www.qau.edu.cn', 'introduce': '无'}
+{'name': '辽宁工业大学', 'enname': 'Liaoning University of Technology', 'website': 'http://www.lnut.edu.cn', 'introduce': '无'}
+{'name': '沈阳化工大学', 'enname': 'Shenyang University of Chemical Technology', 'website': 'http://www.syuct.edu.cn', 'introduce': '无'}
+{'name': '集美大学', 'enname': 'Jimei University', 'website': 'http://www.jmu.edu.cn', 'introduce': '无'}
+{'name': '华北水利水电大学', 'enname': 'North China University of Water Resources and Electric Power', 'website': 'http://www.ncwu.edu.cn', 'introduce': '无'}
+{'name': '东华理工大学', 'enname': 'East China University of Technology', 'website': 'http://www.ecit.edu.cn', 'introduce': '无'}
+{'name': '山东建筑大学', 'enname': 'Shandong Jianzhu University', 'website': 'http://www.sdjzu.edu.cn', 'introduce': '无'}
+{'name': '桂林理工大学', 'enname': 'Guilin University of Technology', 'website': 'http://www.glut.edu.cn', 'introduce': '无'}
+{'name': '内蒙古农业大学', 'enname': 'Inner Mongolia Agricultural University', 'website': 'http://www.imau.edu.cn', 'introduce': '无'}
+{'name': '江汉大学', 'enname': 'Jianghan University', 'website': 'http://www.jhun.edu.cn', 'introduce': '无'}
+{'name': '东北石油大学', 'enname': 'Northeast Petroleum University', 'website': 'http://www.dqpi.edu.cn', 'introduce': '无'}
+{'name': '兰州交通大学', 'enname': 'Lanzhou Jiaotong University', 'website': 'http://www.lzjtu.edu.cn', 'introduce': '无'}
+{'name': '西安邮电大学', 'enname': "Xi'an University of Posts and Telecommunications", 'website': 'http://www.xupt.edu.cn', 'introduce': '无'}
+{'name': '鲁东大学', 'enname': 'Ludong University', 'website': 'http://www.ldu.edu.cn', 'introduce': '无'}
+{'name': '上海应用技术大学', 'enname': 'Shanghai Institute of Technology', 'website': 'http://www.sit.edu.cn', 'introduce': '无'}
+{'name': '厦门理工学院', 'enname': 'Xiamen University of Technology', 'website': 'http://www.xmut.edu.cn', 'introduce': '无'}
+{'name': '北京电子科技学院', 'enname': 'Beijing Electronic Science and Technology Institute', 'website': 'http://www.besti.edu.cn', 'introduce': '无'}
+{'name': '佛山科学技术学院', 'enname': 'Foshan University', 'website': 'http://www.fosu.edu.cn', 'introduce': '无'}
+{'name': '北京农学院', 'enname': 'Beijing University of Agriculture', 'website': 'http://www.bua.edu.cn', 'introduce': '无'}
+{'name': '西藏大学', 'enname': 'Tibet University', 'website': 'http://www.utibet.edu.cn', 'introduce': '无'}
+{'name': '武汉轻工大学', 'enname': 'Wuhan Polytechnic University', 'website': 'http://www.whpu.edu.cn', 'introduce': '无'}
+{'name': '郑州轻工业大学', 'enname': 'Zhengzhou University of Light Industry', 'website': 'http://www.zzuli.edu.cn', 'introduce': '无'}
+{'name': '东莞理工学院', 'enname': 'Dongguan University of Technology', 'website': 'http://www.dgut.edu.cn', 'introduce': '无'}
+{'name': '桂林电子科技大学', 'enname': 'Guilin University of Electronic Technology', 'website': 'http://www.guet.edu.cn', 'introduce': '无'}
+{'name': '烟台大学', 'enname': 'Yantai University', 'website': 'http://www.ytu.edu.cn', 'introduce': '无'}
+{'name': '江西农业大学', 'enname': 'Jiangxi Agricultural University', 'website': 'http://www.jxau.edu.cn', 'introduce': '无'}
+{'name': '成都信息工程大学', 'enname': 'Chengdu University of Information Technology', 'website': 'http://www.cuit.edu.cn', 'introduce': '无'}
+{'name': '大连交通大学', 'enname': 'Dalian Jiaotong University', 'website': 'http://www.djtu.edu.cn', 'introduce': '无'}
+{'name': '中国民航大学', 'enname': 'Civil Aviation University of China', 'website': 'http://www.cauc.edu.cn', 'introduce': '无'}
+{'name': '东北电力大学', 'enname': 'Northeast Electric Power University', 'website': 'http://www.nedu.edu.cn', 'introduce': '无'}
+{'name': '海南师范大学', 'enname': 'Hainan Normal University', 'website': 'http://www.hainnu.edu.cn', 'introduce': '无'}
+{'name': '沈阳工业大学', 'enname': 'Shenyang University of Technology', 'website': 'http://www.sut.edu.cn', 'introduce': '无'}
+{'name': '大连大学', 'enname': 'Dalian University', 'website': 'http://www.dlu.edu.cn', 'introduce': '无'}
+{'name': '安徽理工大学', 'enname': 'Anhui University of Science and Technology', 'website': 'http://www.aust.edu.cn', 'introduce': '无'}
+{'name': '兰州理工大学', 'enname': 'Lanzhou University of Technology', 'website': 'http://www.gsut.edu.cn', 'introduce': '无'}
+{'name': '华北理工大学', 'enname': 'North China University of Science and Technology', 'website': 'http://www.ncst.edu.cn', 'introduce': '无'}
+{'name': '渤海大学', 'enname': 'Bohai University', 'website': 'http://www.bhu.edu.cn', 'introduce': '无'}
+{'name': '重庆理工大学', 'enname': 'Chongqing University of Technology', 'website': 'http://www.cqut.edu.cn', 'introduce': '无'}
+{'name': '南华大学', 'enname': 'University of South China', 'website': 'http://www.usc.edu.cn', 'introduce': '无'}
+{'name': '河南理工大学', 'enname': 'Henan Polytechnic University', 'website': 'http://www.hpu.edu.cn', 'introduce': '无'}
+{'name': '南昌航空大学', 'enname': 'Nanchang Hangkong University', 'website': 'http://www.nchu.edu.cn', 'introduce': '无'}
+{'name': '重庆师范大学', 'enname': 'Chongqing Normal University', 'website': 'http://www.cqnu.edu.cn', 'introduce': '无'}
+{'name': '大连工业大学', 'enname': 'Dalian Polytechnic University', 'website': 'http://www.dlpu.edu.cn', 'introduce': '无'}
+{'name': '中南林业科技大学', 'enname': 'Central South University of Forestry & Technology', 'website': 'http://www.csuft.edu.cn', 'introduce': '无'}
+{'name': '西南科技大学', 'enname': 'Southwest University of Science and Technology', 'website': 'http://www.swust.edu.cn', 'introduce': '无'}
+{'name': '沈阳师范大学', 'enname': 'Shenyang Normal University', 'website': 'http://www.synu.edu.cn', 'introduce': '无'}
+{'name': '河北科技大学', 'enname': 'Hebei University of Science and Technology', 'website': 'http://www.hebust.edu.cn', 'introduce': '无'}
+{'name': '延边大学', 'enname': 'Yanbian University', 'website': 'http://www.ybu.edu.cn', 'introduce': '无'}
+{'name': '上海工程技术大学', 'enname': 'Shanghai University of Engineering Science', 'website': 'http://www.sues.edu.cn', 'introduce': '无'}
+{'name': '华东交通大学', 'enname': 'East China Jiaotong University', 'website': 'http://www.ecjtu.edu.cn', 'introduce': '无'}
+{'name': '哈尔滨理工大学', 'enname': 'Harbin University of Science and Technology', 'website': 'http://www.hrbust.edu.cn', 'introduce': '无'}
+{'name': '沈阳航空航天大学', 'enname': 'Shenyang Aerospace University', 'website': 'http://www.sau.edu.cn', 'introduce': '无'}
+{'name': '河南工业大学', 'enname': 'Henan University of Technology', 'website': 'http://www.haut.edu.cn', 'introduce': '无'}
+{'name': '哈尔滨师范大学', 'enname': 'Harbin Normal University', 'website': 'http://www.hrbnu.edu.cn', 'introduce': '无'}
+{'name': '浙江海洋大学', 'enname': 'Zhejiang Ocean University', 'website': 'http://www.zjou.edu.cn', 'introduce': '无'}
+{'name': '西安科技大学', 'enname': "Xi'an University of Science and Technology", 'website': 'http://www.xust.edu.cn', 'introduce': '无'}
+{'name': '长江大学', 'enname': 'Yangtze University', 'website': 'http://www.yangtzeu.edu.cn', 'introduce': '无'}
+{'name': '上海电力大学', 'enname': 'Shanghai University of Electric Power', 'website': 'http://www.shiep.edu.cn', 'introduce': '无'}
+{'name': '苏州科技大学', 'enname': 'Suzhou University of Science and Technology', 'website': 'http://www.usts.edu.cn', 'introduce': '无'}
+{'name': '沈阳建筑大学', 'enname': 'Shenyang Jianzhu University', 'website': 'http://www.sjzu.edu.cn', 'introduce': '无'}
+{'name': '沈阳农业大学', 'enname': 'Shenyang Agricultural University', 'website': 'http://www.syau.edu.cn', 'introduce': '无'}
+{'name': '北京信息科技大学', 'enname': 'Beijing Information Science & Technology University', 'website': 'http://www.bistu.edu.cn', 'introduce': '无'}
+{'name': '吉林农业大学', 'enname': 'Jilin Agricultural University', 'website': 'http://www.jlau.edu.cn', 'introduce': '无'}
+{'name': '天津科技大学', 'enname': 'Tianjin University of Science and Technology', 'website': 'http://www.tust.edu.cn', 'introduce': '无'}
+{'name': '宁夏大学', 'enname': 'Ningxia University', 'website': 'http://www.nxu.edu.cn', 'introduce': '无'}
+{'name': '中北大学', 'enname': 'North University of China', 'website': 'http://www.nuc.edu.cn', 'introduce': '无'}
+{'name': '武汉纺织大学', 'enname': 'Wuhan Textile University', 'website': 'http://www.wtu.edu.cn', 'introduce': '无'}
+{'name': '齐鲁工业大学', 'enname': 'Qilu University of Technology', 'website': 'http://www.qlu.edu.cn', 'introduce': '无'}
+{'name': '河南科技大学', 'enname': 'Henan University of Science and Technology', 'website': 'http://www.haust.edu.cn', 'introduce': '无'}
+{'name': '天津理工大学', 'enname': 'Tianjin University of Technology', 'website': 'http://www.tjut.edu.cn', 'introduce': '无'}
+{'name': '长春理工大学', 'enname': 'Changchun University of Science and Technology', 'website': 'http://www.cust.edu.cn', 'introduce': '无'}
+{'name': '河北农业大学', 'enname': 'Hebei Agricultural University', 'website': 'http://www.hebau.edu.cn', 'introduce': '无'}
+{'name': '重庆交通大学', 'enname': 'Chongqing Jiaotong University', 'website': 'http://www.cqjtu.edu.cn', 'introduce': '无'}
+{'name': '湖南科技大学', 'enname': 'Hunan University of Science and Technology', 'website': 'http://www.hnust.cn', 'introduce': '无'}
+{'name': '青岛科技大学', 'enname': 'Qingdao University of Science and Technology', 'website': 'http://www.qust.edu.cn', 'introduce': '无'}
+{'name': '四川师范大学', 'enname': 'Sichuan Normal University', 'website': 'http://www.sicnu.edu.cn', 'introduce': '无'}
+{'name': '安徽工业大学', 'enname': 'Anhui University of Technology', 'website': 'http://www.ahut.edu.cn', 'introduce': '无'}
+{'name': '安徽农业大学', 'enname': 'Anhui Agricultural University', 'website': 'http://www.ahau.edu.cn', 'introduce': '无'}
+{'name': '石家庄铁道大学', 'enname': 'Shijiazhuang Tiedao University', 'website': 'http://www.stdu.edu.cn', 'introduce': '无'}
+{'name': '云南师范大学', 'enname': 'Yunnan Normal University', 'website': 'http://www.ynnu.edu.cn', 'introduce': '无'}
+{'name': '山东农业大学', 'enname': 'Shandong Agricultural University', 'website': 'http://www.sdau.edu.cn', 'introduce': '无'}
+{'name': '曲阜师范大学', 'enname': 'Qufu Normal University', 'website': 'http://www.qfnu.edu.cn', 'introduce': '无'}
+{'name': '石河子大学', 'enname': 'Shihezi University', 'website': 'http://www.shzu.edu.cn', 'introduce': '无'}
+{'name': '北方工业大学', 'enname': 'North China University of Technology', 'website': 'http://www.ncut.edu.cn', 'introduce': '无'}
+{'name': '陕西科技大学', 'enname': 'Shaanxi University of Science and Technology', 'website': 'http://www.sust.edu.cn', 'introduce': '无'}
+{'name': '湖南农业大学', 'enname': 'Hunan Agricultural University', 'website': 'http://www.hunau.net', 'introduce': '无'}
+{'name': '浙江农林大学', 'enname': 'Zhejiang A&F University', 'website': 'http://www.zafu.edu.cn', 'introduce': '无'}
+{'name': '国际关系学院', 'enname': 'University of International Relations', 'website': 'http://www.uir.edu.cn', 'introduce': '无'}
+{'name': '西北师范大学', 'enname': 'Northwest Normal University China', 'website': 'http://swww.nwnu.edu.cn', 'introduce': '无'}
+{'name': '三峡大学', 'enname': 'China Three Gorges University', 'website': 'http://www.ctgu.edu.cn', 'introduce': '无'}
+{'name': '成都理工大学', 'enname': 'Chengdu University of Technology', 'website': 'http://www.cdut.edu.cn', 'introduce': '无'}
+{'name': '河南农业大学', 'enname': 'Henan Agricultural University', 'website': 'http://www.henau.edu.cn', 'introduce': '无'}
+{'name': '上海海洋大学', 'enname': 'Shanghai Ocean University', 'website': 'http://www.shfu.edu.cn', 'introduce': '无'}
+{'name': '新疆大学', 'enname': 'Xinjiang University', 'website': 'http://www.xju.edu.cn', 'introduce': '无'}
+{'name': '武汉工程大学', 'enname': 'Wuhan Institute of Technology', 'website': 'http://www.wit.edu.cn', 'introduce': '无'}
+{'name': '广西师范大学', 'enname': 'Guangxi Normal University', 'website': 'http://www.gxnu.edu.cn', 'introduce': '无'}
+{'name': '天津工业大学', 'enname': 'Tiangong University', 'website': 'http://www.tjpu.edu.cn', 'introduce': '无'}
+{'name': '山东科技大学', 'enname': 'Shandong University of Science and Technology', 'website': 'http://www.sdust.edu.cn', 'introduce': '无'}
+{'name': '海南大学', 'enname': 'Hainan University', 'website': 'http://www.hainanu.edu.cn', 'introduce': '无'}
+{'name': '上海海事大学', 'enname': 'Shanghai Maritime University', 'website': 'http://www.shmtu.edu.cn', 'introduce': '无'}
+{'name': '南通大学', 'enname': 'Nantong University', 'website': 'http://www.ntu.edu.cn', 'introduce': '无'}
+{'name': '天津师范大学', 'enname': 'Tianjin Normal University', 'website': 'http://www.tjnu.edu.cn', 'introduce': '无'}
+{'name': '温州大学', 'enname': 'Wenzhou University', 'website': 'http://www.wzu.edu.cn', 'introduce': '无'}
+{'name': '江苏科技大学', 'enname': 'Jiangsu University of Science and Technology', 'website': 'http://www.just.edu.cn', 'introduce': '无'}
+{'name': '四川农业大学', 'enname': 'Sichuan Agricultural University', 'website': 'http://www.sicau.edu.cn', 'introduce': '无'}
+{'name': '辽宁师范大学', 'enname': 'Liaoning Normal University', 'website': 'http://www.lnnu.edu.cn', 'introduce': '无'}
+{'name': '河南师范大学', 'enname': 'Henan Normal University', 'website': 'http://www.henannu.edu.cn', 'introduce': '无'}
+{'name': '济南大学', 'enname': 'University of Jinan', 'website': 'http://www.ujn.edu.cn', 'introduce': '无'}
+{'name': '中国计量大学', 'enname': 'China Jiliang University', 'website': 'http://www.cjlu.edu.cn', 'introduce': '无'}
+{'name': '重庆邮电大学', 'enname': 'Chongqing University of Posts and Telecommunications', 'website': 'http://www.cqupt.edu.cn', 'introduce': '无'}
+{'name': '安徽师范大学', 'enname': 'Anhui Normal University', 'website': 'http://www.ahnu.edu.cn', 'introduce': '无'}
+{'name': '河北师范大学', 'enname': 'Hebei Normal University', 'website': 'http://www.hebtu.edu.cn', 'introduce': '无'}
+{'name': '贵州大学', 'enname': 'Guizhou University', 'website': 'http://www.gzu.edu.cn', 'introduce': '无'}
+{'name': '西南石油大学', 'enname': 'Southwest Petroleum University', 'website': 'http://www.swpu.edu.cn', 'introduce': '无'}
+{'name': '湖北工业大学', 'enname': 'Hubei University of Technology', 'website': 'http://www.hbut.edu.cn', 'introduce': '无'}
+{'name': '黑龙江大学', 'enname': 'Heilongjiang University', 'website': 'http://www.hlju.edu.cn', 'introduce': '无'}
+{'name': '常州大学', 'enname': 'Changzhou University', 'website': 'http://www.cczu.edu.cn', 'introduce': '无'}
+{'name': '西安理工大学', 'enname': "Xi'an University of Technology", 'website': 'http://www.xaut.edu.cn', 'introduce': '无'}
+{'name': '西安建筑科技大学', 'enname': "Xi'an University of Architecture and Technology", 'website': 'http://www.xauat.edu.cn', 'introduce': '无'}
+{'name': '昆明理工大学', 'enname': 'Kunming University of Science and Technology', 'website': 'http://www.kmust.edu.cn', 'introduce': '无'}
+{'name': '长沙理工大学', 'enname': 'Changsha University of Science and Technology', 'website': 'http://www.csust.edu.cn', 'introduce': '无'}
+{'name': '江西师范大学', 'enname': 'Jiangxi Normal University', 'website': 'http://www.jxnu.edu.cn', 'introduce': '无'}
+{'name': '汕头大学', 'enname': 'Shantou University', 'website': 'http://www.stu.edu.cn', 'introduce': '无'}
+{'name': '内蒙古大学', 'enname': 'Inner Mongolia University', 'website': 'http://www.imu.edu.cn', 'introduce': '无'}
+{'name': '华侨大学', 'enname': 'Huaqiao University', 'website': 'http://www.hqu.edu.cn', 'introduce': '无'}
+{'name': '江苏师范大学', 'enname': 'Jiangsu Normal University', 'website': 'http://www.jsnu.edu.cn', 'introduce': '无'}
+{'name': '福建农林大学', 'enname': 'Fujian Agriculture and Forestry University', 'website': 'http://www.fafu.edu.cn', 'introduce': '无'}
+{'name': '北京建筑大学', 'enname': 'Beijing University of Civil Engineering and Architecture', 'website': 'http://www.bucea.edu.cn', 'introduce': '无'}
+{'name': '辽宁大学', 'enname': 'Liaoning University', 'website': 'http://www.lnu.edu.cn', 'introduce': '无'}
+{'name': '东北林业大学', 'enname': 'Northeast Forestry University - China', 'website': 'http://www.nefu.edu.cn', 'introduce': '无'}
+{'name': '山西大学', 'enname': 'Shanxi University', 'website': 'http://www.sxu.edu.cn', 'introduce': '无'}
+{'name': '南京林业大学', 'enname': 'Nanjing Forestry University', 'website': 'http://www.njfu.edu.cn', 'introduce': '无'}
+{'name': '武汉科技大学', 'enname': 'Wuhan University of Science and Technology', 'website': 'http://www.wust.edu.cn', 'introduce': '无'}
+{'name': '太原理工大学', 'enname': 'Taiyuan University of Technology', 'website': 'http://www.tyut.edu.cn', 'introduce': '无'}
+{'name': '浙江理工大学', 'enname': 'Zhejiang Sci-Tech University', 'website': 'http://www.zstu.edu.cn', 'introduce': '无'}
+{'name': '东北农业大学', 'enname': 'Northeast Agricultural University - China', 'website': 'http://www.neau.edu.cn', 'introduce': '无'}
+{'name': '杭州师范大学', 'enname': 'Hangzhou Normal University', 'website': 'http://www.hznu.edu.cn', 'introduce': '无'}
+{'name': '大连海事大学', 'enname': 'Dalian Maritime University', 'website': 'http://www.dlmu.edu.cn', 'introduce': '无'}
+{'name': '青岛大学', 'enname': 'Qingdao University', 'website': 'http://www.qdu.edu.cn', 'introduce': '无'}
+{'name': '河北大学', 'enname': 'Hebei University', 'website': 'http://www.hbu.edu.cn', 'introduce': '无'}
+{'name': '河北工业大学', 'enname': 'Hebei University of Technology', 'website': 'http://www.hebut.edu.cn', 'introduce': '无'}
+{'name': '山东师范大学', 'enname': 'Shandong Normal University', 'website': 'http://www.sdnu.edu.cn', 'introduce': '无'}
+{'name': '湘潭大学', 'enname': 'Xiangtan University', 'website': 'http://www.xtu.edu.cn', 'introduce': '无'}
+{'name': '福建师范大学', 'enname': 'Fujian Normal University', 'website': 'http://www.fjnu.edu.cn', 'introduce': '无'}
+{'name': '浙江师范大学', 'enname': 'Zhejiang Normal University', 'website': 'http://www.zjnu.edu.cn', 'introduce': '无'}
+{'name': '广西大学', 'enname': 'Guangxi University', 'website': 'http://www.gxu.edu.cn', 'introduce': '无'}
+{'name': '广州大学', 'enname': 'Guangzhou University', 'website': 'http://www.gzhu.edu.cn', 'introduce': '广州大学是以国家重要中心城市“广州”命名的综合性大学，于2000年合并组建，有着90多年的办学传统。学校紧紧抓住国家推进“双一流”建设、广东省和广州市高水平大学建设机遇，坚持面向国际学术前沿、面向国家重大战略需求、面向国家和区域经济社会需求，主动对接广州和粤港澳大湾区建设、创新和开放，按照内涵建设、创新引领、特色发展、开放办学的发展理念，聚焦新工科、新师范、新文科建设，积极探索新医科发展，是广东省高水平大学重点学科建设高校、广州市高水平大学建设高校。'}
+{'name': '杭州电子科技大学', 'enname': 'Hangzhou Dianzi University', 'website': 'http://www.hdu.edu.cn', 'introduce': '杭州电子科技大学，始创于1956年，初名杭州航空工业财经学校，而后历经杭州航空工业学校、浙江电机专科学校、浙江机械工业学校、杭州无线电工业管理学校、杭州无线电工业学校等时期，1980年经国务院批准改建为杭州电子工业学院，是中国较早成立的一所以信息科技（IT）学科为主导的高等院校，先后隶属于机械工业部、电子工业部和信息产业部等中央部委，2003年原杭州出版学校整体并入，2004年更名为杭州电子科技大学。位于杭州市，是浙江省人民政府与国防科技工业局共建的教学研究型大学。'}
+{'name': '上海师范大学', 'enname': 'Shanghai Normal University', 'website': 'http://www.shnu.edu.cn', 'introduce': '上海师范大学，创建于1954年，时名上海师范专科学校，1956年扩建为本科院校上海第一师范学院和上海第二师范学院，1958年两校合并成立上海师范学院，1972年五校合并成立上海师范大学，1978年恢复上海师范学院，1984年改名为上海师范大学，1994年与上海技术师范学院合并成立新的上海师范大学。是上海市重点建设大学、上海市高水平地方高校（学科）建设试点单位。'}
+{'name': '河南大学', 'enname': 'Henan University', 'website': 'http://www.henu.edu.cn', 'introduce': '河南大学，肇始于1912年创办的河南留学欧美预备学校，1942年改为国立河南大学。新中国成立后，经院系调整，河南大学校本部更名为河南师范学院，后又经开封师范学院、河南师范大学等阶段，1984年恢复河南大学校名。河南大学现为河南省人民政府与教育部共建的省属重点大学。'}
+{'name': '南京邮电大学', 'enname': 'Nanjing University of Posts and Telecommunications', 'website': 'http://www.njupt.edu.cn', 'introduce': '南京邮电大学是国家“双一流”建设高校和江苏高水平大学建设高校，其前身是1942年诞生于山东抗日根据地的八路军战邮干训班，是我党、我军早期系统培养通信人才的学校之一。1958年经国务院批准改建为本科高校，取名南京邮电学院；2005年4月，更名为南京邮电大学。学校原为邮电部和信息产业部直属重点高校，2000年起实行中央与地方（现为工业和信息化部、国家邮政局与江苏省）共建，2018年成为教育部与江苏省共建的“双一流”建设高校，以江苏省管理为主。'}
+{'name': '广东工业大学', 'enname': 'Guangdong University of Technology', 'website': 'http://www.gdut.edu.cn', 'introduce': '广东工业大学，学校前身为1952年建立的广州水利土木工校（后发展演化为广东工学院）、1956年建立的广东省机械学校（后发展演化为广东机械学院）和1957年建立的广东省土木工程学校（后发展演化为华南建设学院（东院））。1958年，学校开始招收本科生。1995年，原广东工学院、广东机械学院和华南建设学院（东院）合并组建广东工业大学。广东工业大学是广东省属重点大学。'}
+{'name': '长安大学', 'enname': "Chang'an University", 'website': 'http://chd.edu.cn', 'introduce': '长安大学，2000年由始建于二十世纪50年代初的原西安公路交通大学、西安工程学院、西北建筑工程学院合并组建而成。直属中华人民共和国教育部，是教育部和交通运输部、自然资源部、住房和城乡建设部、陕西省人民政府共建高校。'}
+{'name': '安徽大学', 'enname': 'Anhui University', 'website': 'http://www.ahu.edu.cn', 'introduce': '安徽大学，创建于1928年当时省会安庆市，1949年迁至芜湖，1956年迁建合肥市。在新中国成立初期的院系调整过程中，安徽大学先后整合了复旦大学、南京大学、金陵大学、江苏师院、合肥师范学院等高校部分系科，并在世纪之交时期并入安徽银行学校、安徽财政学校等院校。安徽大学隶属于安徽省人民政府，是安徽省与教育部共建的省属重点综合性大学。'}
+{'name': '上海理工大学', 'enname': 'University of Shanghai for Science and Technology', 'website': 'http://www.usst.edu.cn', 'introduce': '上海理工大学，源于1906年创办的沪江大学和1907年创办的德文医工学堂。20世纪50年代初，原沪江大学和原国立上海高级机械职业学校分别改建为上海机械学院（1994年更名为华东工业大学）和上海机械高等专科学校，1996年两校合并组建上海理工大学。1998年学校由原国家机械工业部转入上海市管理。是一所以工学为主，工学、理学、经济学、管理学、文学、法学、艺术学等多学科协调发展的应用研究型大学；是国家国防科技工业局与上海市人民政府共建高校。'}
+{'name': '华南农业大学', 'enname': 'South China Agricultural University', 'website': 'http://www.scau.edu.cn', 'introduce': '华南农业大学，始创于1909年的广东全省农事试验场暨附设农业讲习所；1952年，由中山大学农学院、岭南大学农学院和广西大学农学院畜牧兽医系及病虫害系的一部分合并成立华南农学院，隶属农业部主管；1984年，更名为华南农业大学；2000年，学校由农业部划归广东省主管。华南农业大学是一所以农业科学和生命科学为优势，以热带亚热带区域农业研究为特色的全国重点大学，广东省人民政府和农业农村部共建的省部共建大学。'}
+{'name': '南京信息工程大学', 'enname': 'Nanjing University of Information Science & Technology', 'website': 'http://www.nuist.edu.cn', 'introduce': '南京信息工程大学，前身为南京大学气象学院，1963年独立建校为南京气象学院，1978年列入全国重点大学，2004年更名为南京信息工程大学。2007年以来，先后实现了江苏省人民政府、中国气象局、教育部、国家海洋局的多方共建。现为一所由江苏省人民政府、中华人民共和国教育部、中国气象局、国家海洋局共建的以大气科学为特色的全国重点大学。'}
+{'name': '南昌大学', 'enname': 'Nanchang University', 'website': 'http://www.ncu.edu.cn', 'introduce': '南昌大学，始于1921年创办的江西公立医学专门学校和1940年创建的国立中正大学。1958年，江西工学院和江西大学成立；1962年，江西师范学院生物系并入江西大学；1993年，江西大学与江西工业大学合并组建南昌大学。2005年，南昌大学与江西医学院合并组建新南昌大学。南昌大学是教育部与江西省人民政府部省合作共建高校。'}
+{'name': '首都师范大学', 'enname': 'Capital Normal University', 'website': 'http://www.cnu.edu.cn', 'introduce': '首都师范大学，创建于1954年，原名北京师范学院，办学历史可追溯至1905年成立的通州师范；1960年后，华北人民大学、北京工农师范学院、北京艺术师范学院、北京师范专科学校等部分院系先后并入；1992年，北京师范学院分院并入，同年更名为首都师范大学。首都师范大学是中华人民共和国教育部与北京市人民政府共建高校。'}
+{'name': '燕山大学', 'enname': 'Yanshan University', 'website': 'http://www.ysu.edu.cn', 'introduce': '燕山大学，学校源于哈尔滨工业大学，始建于1920年。1960年独立办学，定名为东北重型机械学院。1985年至1997年学校整体南迁秦皇岛市，1997年正式更名为燕山大学。2000年，河北轻工业管理学校并入燕山大学。燕山大学是河北省人民政府、教育部、工业和信息化部、国家国防科技工业局共建的全国重点大学。'}
+{'name': '湖南师范大学', 'enname': 'Hunan Normal University', 'website': 'http://www.hunnu.edu.cn', 'introduce': '湖南师范大学，前身为1938年创立的中国第一所独立设置的国立师范学院，中华人民共和国成立之初，国立师范学院并入湖南大学。1953年8月全国院系调整，湖南大学撤消，建立了湖南师范学院。1984年，学校更名为湖南师范大学。位于湖南省长沙市，是教育部与湖南省重点共建的部省共建“双一流”建设高校。'}
+{'name': '云南大学', 'enname': 'Yunnan University', 'website': 'http://www.ynu.edu.cn', 'introduce': '云南大学始建于1922年的私立东陆大学，1938年改为国立云南大学，在新中国成立初期的院系调整过程中，云南大学的航空、土木等特色学科被划出并入其他学校，工、医、农等先后独立建校。云南大学隶属于云南省人民政府，是教育部与云南省人民政府共建的综合性重点大学。'}
+{'name': '郑州大学', 'enname': 'Zhengzhou University', 'website': 'http://www.zzu.edu.cn', 'introduce': '郑州大学，由原郑州大学、郑州工业大学和河南医科大学在2000年合并组建而成。其中，原郑州大学创建于1956年，1991年黄河大学并入。原郑州工业大学成立于1963年，是原化工部直属的重点院校。原河南医科大学1928年在开封成立，1984年更名为河南医科大学。郑州大学现为河南省人民政府与国家教育部共同建设的省属重点大学。'}
+{'name': '南京工业大学', 'enname': 'Nanjing Tech University', 'website': 'http://www.njut.edu.cn', 'introduce': '南京工业大学，前身可追溯至1902年创建的三江师范学堂和1915年创办的同济医工学堂。2001年，由南京化工大学与南京建筑工程学院合并组建而成。南京工业大学隶属于江苏省人民政府，是江苏省重点建设的高水平大学。'}
+{'name': '浙江工业大学', 'enname': 'Zhejiang University of Technology', 'website': 'http://www.zjut.edu.cn', 'introduce': '浙江工业大学，始建于1953年，其前身可以追溯到1910年创立的浙江中等工业学堂。学校于1994年、1999年和2001年先后并入浙江省经济管理干部学院、杭州船舶工业学校、浙江建材工业学校。浙江工业大学隶属于浙江省人民政府，由浙江省和教育部共建，是浙江省重点建设高校。'}
+{'name': '陕西师范大学', 'enname': 'Shaanxi Normal University', 'website': 'http://www.snnu.edu.cn', 'introduce': '陕西师范大学，创建于1944年，前身是陕西省立师范专科学校和国立西北大学文学院的教育学系，1954年定名为西安师范学院。1960年，与陕西师范学院合并成立陕西师范大学。1978年，划归教育部直属，是中华人民共和国教育部直属重点综合性师范大学。'}
+{'name': '华北电力大学', 'enname': 'North China Electric Power University', 'website': 'http://undefined', 'introduce': '华北电力大学，前身为1958年创建的北京电力学院。1970年学校迁至保定，更名为河北电力学院，1978年更名为华北电力学院。1995年华北电力学院和北京动力经济学院合并组建华北电力大学，校部设在保定，分设北京校区。2005年学校校部由设在保定变更为设在北京，分设华北电力大学（保定）校区，两地实行实质性一体化管理。华北电力大学现为教育部直属高校，是教育部和国家电网公司等电力央企组成的理事会共建的全国重点大学。'}
+{'name': '合肥工业大学', 'enname': 'Hefei University of Technology', 'website': 'http://www.hfut.edu.cn', 'introduce': '合肥工业大学，前身是1945年创建的安徽省立蚌埠高级工业职业学校，先后历经安徽省立高级工业职业学校、安徽省立工业专科学校、淮南工业专门学校、中国煤矿工业专科学校、淮南煤矿工业专科学校、合肥矿业学院等发展阶段，于1958年更名为合肥工业大学，1969年安徽水利电力学院和安徽工学院并入，后农机系等单位分出并成立为安徽农机学院，1979年安徽农机学院更名为安徽工学院，1997年原合肥工业大学与安徽工学院合并组建新的合肥工业大学。合肥工业大学隶属于教育部，是教育部、安徽省人民政府和工业和信息化部共同建设的全国重点大学。'}
+{'name': '北京林业大学', 'enname': 'Beijing Forestry University', 'website': 'http://www.bjfu.edu.cn', 'introduce': '北京林业大学，办学历史可追溯至1902年的京师大学堂农业科林学目；1952年，北京农业大学森林系与河北农学院森林系合并，成立北京林学院；1956年，北京农业大学造园系和清华大学建筑系部分并入学校。1960年被列为全国重点高等学校；1985年更名为北京林业大学。北京林业大学是教育部直属、教育部与国家林业局共建的全国重点大学。'}
+{'name': '福州大学', 'enname': 'Fuzhou University', 'website': 'http://www.fzu.edu.cn', 'introduce': '福州大学创建于1958年，以厦门大学部分专业为基础，1970年并入华侨大学和福建师范大学的部分专业，1978~1983年间先后增设轻工系、工业管理系和财经学院。福州大学隶属于福建省人民政府，由教育部、国防科技工业局和福建省人民政府共建，是福建省“十三五”期间重点建设的三所高水平大学之一。'}
+{'name': '宁波大学', 'enname': 'Ningbo University', 'website': 'http://www.nbu.edu.cn', 'introduce': '宁波大学，创办于1986年，由世界船王包玉刚捐资创立，邓小平题写校名。建校之初，由浙江大学、复旦大学、中国科学技术大学、北京大学、原杭州大学五校对口援建。1996年，原宁波大学、宁波师范学院和浙江水产学院宁波分院三校合并，组建新的宁波大学。宁波大学是中华人民共和国教育部、浙江省人民政府、宁波市人民政府、国家海洋局共建高校。'}
+{'name': '中国石油大学（华东）', 'enname': 'China University of Petroleum (Huadong)', 'website': 'http://undefined', 'introduce': '中国石油大学，简称“石大（华东）”，1953年以清华大学石油工程系为基础，汇集北京大学、天津大学、大连工学院等院校相关师资力量，组建新中国第一所石油高等学府——北京石油学院，1969年学校迁至山东东营，更名为华东石油学院，2005年正式更名为中国石油大学。中国石油大学（华东）是教育部直属高校，是教育部和五大能源企业集团公司以及山东省人民政府共建的石油石化重点大学。'}
+{'name': '东华大学', 'enname': 'Donghua University', 'website': 'http://www.dhu.edu.cn', 'introduce': '东华大学，创建于1951年，时名华东纺织工学院，由交通大学纺织系等华东、中南、西南高校的纺织院系合并而成，1985年更名为中国纺织大学，1999年更名为东华大学。地处中国上海，是中华人民共和国教育部直属的全国重点大学。'}
+{'name': '江苏大学', 'enname': 'Jiangsu University', 'website': 'http://www.ujs.edu.cn', 'introduce': '江苏大学，2001年经国家教育部批准，由原江苏理工大学、镇江医学院、镇江师范专科学校合并组建，其中原江苏理工大学的前身可追溯到1902年创建的三江师范学堂。江苏大学隶属于江苏省人民政府，是农业部与江苏省人民政府共建的省属重点大学。'}
+{'name': '中国矿业大学（北京）', 'enname': 'China University of Mining and Technology - Beijing', 'website': 'http://undefined', 'introduce': '中国矿业大学（北京），前身是焦作路矿学堂，始建于1909年；1931年更名为私立焦作工学院；1938年，学校西迁并与东北大学、北洋大学、北平大学的工学院联合组建国立西北工学院；1946年，焦作工学院复校并于 1949年回迁焦作；1950年更名为中国矿业学院；1953年迁至北京，更名为北京矿业学院；1970年迁至四川合川，更名为四川矿业学院；1988年，学校更名为中国矿业大学；1997年，成立了中国矿业大学（北京校区）；2009年，以“中国矿业大学（北京）”名义独立办学。是教育部直属的全国重点高校、教育部与原国家安全生产监督管理总局共建高校。'}
+{'name': '中国地质大学（北京）', 'enname': 'China University of Geosciences (Beijing)', 'website': 'http://undefined', 'introduce': '中国地质大学，简称“北京地大”，前身是1952年由北京大学、清华大学、天津大学和唐山铁道学院等院校的地质系（科）合并组建的北京地质学院，1987年成立中国地质大学，京汉两地办学，2005年起京汉两校各自独立办学。中国地质大学（北京）是原国土资源部直属高校，2000年调整为教育部直属管辖，目前是教育部和国土资源部共建的全国重点大学。'}
+{'name': '扬州大学', 'enname': 'Yangzhou University', 'website': 'http://www.yzu.edu.cn', 'introduce': '扬州大学，前身是1902年创建的通州师范学院和通海农学堂，1952年其农科和代办的文史专修科西迁扬州，组建苏北农学院和苏北师范专科学校，后分别发展为江苏农学院和扬州师范学院，1992年两所学校与扬州工学院、扬州医学院、江苏水利工程专科学校、江苏商业专科学校等高校联合组建扬州大学。扬州大学隶属于江苏省人民政府，是教育部和江苏省人民政府共建的省属重点大学。'}
+{'name': '西北农林科技大学', 'enname': 'Northwest A&F University', 'website': 'http://www.nwsuaf.edu.cn', 'introduce': '西北农林科技大学，前身是创建于1934年的国立西北农林专科学校及后来相继在杨陵建立的相关科教单位。1999年9月，经国务院批准，同处杨凌的原西北农业大学、西北林学院、中国科学院水利部水土保持研究所、水利部西北水利科学研究所、陕西省农业科学院、陕西省林业科学院、陕西省中国科学院西北植物研究所等7所科教单位合并组建为西北农林科技大学。是中华人民共和国教育部直属全国重点大学。'}
+{'name': '华南师范大学', 'enname': 'South China Normal University', 'website': 'http://www.scnu.edu.cn', 'introduce': '华南师范大学，始建于1933年，前身是广东省立勷勤大学师范学院，1938年，学院从勷勤大学独立出来改办广东省立教育学院，1950年更名为广东省文理学院，后陆续并入国立中山大学师范学院、私立华南联合大学教育系、南方大学俄语系、国立岭南大学教育系等院校及系科，设立华南师范学院。1982年，更名为华南师范大学。华南师范大学现为广东省人民政府与国家教育部共同建设的省属重点大学。'}
+{'name': '西南大学', 'enname': 'Southwest University', 'website': 'http://www.swnu.edu.cn', 'introduce': '西南大学由西南师范大学和西南农业大学于2005年合并组建，其中西南师范大学和西南农业大学的前身均可追溯到1906年创建的川东师范学堂。西南大学是教育部直属高校，是教育部、农业部与重庆市人民政府共建的全国重点大学。'}
+{'name': '深圳大学', 'enname': 'Shenzhen University', 'website': 'http://www.szu.edu.cn', 'introduce': '深圳大学，1983年经国家教育部批准，由北京大学援建中文、外语类学科，清华大学援建电子、建筑类学科，中国人民大学援建经济、法律类学科，一大批知名学者云集特区，建立深圳大学。深圳大学隶属于广东省人民政府，是国家和地方高度重视并投入建设的特区综合性大学。'}
+{'name': '北京化工大学', 'enname': 'Beijing University of Chemical Technology', 'website': 'http://www.buct.edu.cn', 'introduce': '北京化工大学，创办于1958年，原名北京化工学院，是新中国为“培养尖端科学技术所需求的高级化工人才”创建的一所高水平大学，1994年更名为北京化工大学。北京化工大学是教育部直属高校，是教育部与北京市人民政府、国家国防科技工业局、国家安全生产监督管理总局和中国石油化工集团公司共建的全国重点大学。'}
+{'name': '北京工业大学', 'enname': 'Beijing University of Technology', 'website': 'http://www.bjut.edu.cn', 'introduce': '北京工业大学，创建于1960年，1972年以来，先后并入北京工商管理专科学校、原北京联合大学经济管理学院、北京计算机学院、北京艺术设计学院等。北京工业大学隶属于北京市人民政府，是北京市与教育部共建的重点大学。'}
+{'name': '上海科技大学', 'enname': 'ShanghaiTech University', 'website': 'http://www.shanghaitech.edu.cn', 'introduce': '上海科技大学，于2013年9月30日经教育部批准同意正式建立。2013年-2016年，学校与中国科学院大学联合招收了4届硕博连读研究生。2014年，开始招收本科生。从2017年起，学校可独立招收、培养硕士和博士研究生。上科大是一所由上海市人民政府与中国科学院共同举办、共同建设，由上海市人民政府主管的，以理工科为主，与中国科学院所属研究院所开展科教融合的全日制普通高等学校。'}
+{'name': '西北大学', 'enname': 'Northwest University', 'website': 'http://www.nwu.edu.cn', 'introduce': '西北大学，肇始于1902年的陕西大学堂和京师大学堂速成科仕学馆；1912年始称西北大学；1923年改为国立西北大学；1937年西迁来陕的国立北平大学、北平师范大学、北洋工学院和国立北平研究院等组成国立西安临时大学；1938年改为国立西北联合大学；1939年复称国立西北大学；新中国成立后为教育部直属综合性大学；1950年复名西北大学；1958年改隶陕西省主管；是中华人民共和国教育部与陕西省人民政府共建的综合性全国重点大学。'}
+{'name': '中国矿业大学', 'enname': 'China University of Mining and Technology - Xuzhou', 'website': 'http://www.cumt.edu.cn', 'introduce': '中国矿业大学，前身是由英国福公司创办于1909年的焦作路矿学堂，1950年在焦作工学院的基础上于天津建立新中国第一所矿业高等学府——中国矿业学院，1988年更名为中国矿业大学。中国矿业大学原由国家煤炭工业局管理，2000年划转教育部直属管辖，现为教育部与江苏省人民政府、国家安全生产监督管理总局共建的全国重点大学。'}
+{'name': '江南大学', 'enname': 'Jiangnan University', 'website': 'http://www.jiangnan.edu.cn', 'introduce': '江南大学，前身是1902年创建的三江师范学堂，历经国立中央大学、南京大学等发展时期，1958年南京工学院食品工业系东迁建立无锡轻工业学院，1995年更名为无锡轻工大学，2001年无锡轻工大学、江南学院、无锡教育学院合并组建江南大学，2003年东华大学无锡校区并入江南大学。江南大学现为教育部直属高校，是教育部和江苏省人民政府共建的高水平大学。'}
+{'name': '河海大学', 'enname': 'Hohai University', 'website': 'http://www.hhu.edu.cn', 'introduce': '河海大学，起源于1915年创办的河海工程专门学校，是中国第一所培养水利人才的高等学府，20世纪30年代并入南京大学。1952年，南京大学水利系与交通大学、同济大学、浙江大学等高校的水利系科以及华东水利专科学校组建华东水利学院，1985年恢复校名“河海大学”。河海大学为教育部直属，是教育部、江苏省、水利部和国家海洋局共建的全国重点大学。'}
+{'name': '中国石油大学（北京）', 'enname': 'China University of Petroleum - Beijing', 'website': 'http://https://bkzs.cup.edu.cn', 'introduce': '中国石油大学，简称“石大”，前身是1953年创立的新中国第一所石油高等院校——北京石油学院。1969年，学校迁至山东东营，1981年在北京原校址内成立研究生部，1988年更名石油大学，并于次年在北京恢复招收本科生，2005年正式更名为中国石油大学。中国石油大学（北京）是原中国石油天然气公司直属高校，2000年划归为教育部直属管辖，目前是教育部与中国石油天然气股份有限公司、中国石油化工集团公司、中国海洋石油总公司共建的全国重点大学。'}
+{'name': '东北师范大学', 'enname': 'Northeast Normal University', 'website': 'http://www.nenu.edu.cn', 'introduce': '东北师范大学，前身是1946年创建的东北大学，是中国共产党在东北地区创建的第一所综合性大学。1948年至1949年间，原沈阳东北大学、长春大学、长白师范学院等校陆续并入东北大学，1950年易名为东北师范大学。东北师范大学隶属于教育部，是教育部与吉林省人民政府共建的全国重点大学。'}
+{'name': '北京邮电大学', 'enname': 'Beijing University of Posts and Telecommunications', 'website': 'http://www.bupt.edu.cn', 'introduce': '北京邮电大学，前身是1955年创办的北京邮电学院，是新中国第一所邮电高等学府。1959年和1960年北京电信学院及其附属中技部、邮电科技大学先后并入，1993年学校更名为北京邮电大学。北京邮电大学现为教育部直属高校，是教育部、工业和信息化部共建的全国重点大学。'}
+{'name': '中国地质大学（武汉）', 'enname': 'China University of Geosciences (Wuhan)', 'website': 'http://undefined', 'introduce': '中国地质大学，简称“地大”，创建于1952年，前身是北京大学、清华大学、天津大学和唐山铁道学院等院校的地质系（科）合并组建的北京地质学院，1987年，成立中国地质大学，京汉两地办学，2005年起京汉两校各自独立办学。中国地质大学（武汉）是原国土资源部直属高校，2000年调整为教育部直属，目前是教育部、自然资源部、湖北省人民政府和国家海洋局共建的全国重点大学。'}
+{'name': '西南交通大学', 'enname': 'Southwest Jiaotong University', 'website': 'http://www.swjtu.edu.cn', 'introduce': '西南交通大学，前身为创建于1896年的山海关北洋铁路官学堂，是中国第一所工程教育高等学府，也是“交通大学”的最早两大源头之一。1952年，学校部分系科师资调入清华大学、天津大学等兄弟院校，1964年内迁四川，1972年更名西南交通大学。西南交通大学为教育部直属，是教育部和四川省共建的全国重点大学。'}
+{'name': '武汉理工大学', 'enname': 'Wuhan University of Technology', 'website': 'http://www.whut.edu.cn', 'introduce': '武汉理工大学，2000年由分属教育部、交通部、中国汽车工业总公司的武汉工业大学（创办于1948年）、武汉交通科技大学（创办于1946年）、武汉汽车工业大学（创办于1958年）三所高校合并组建而成。武汉理工大学是教育部直属高校，是教育部和交通运输部、国家国防科技工业局共建的高水平大学。'}
+{'name': '哈尔滨工程大学', 'enname': 'Harbin Engineering University', 'website': 'http://www.hrbeu.edu.cn', 'introduce': '哈尔滨工程大学，源自1953年创办的中国人民解放军军事工程学院（哈军工）；1970年，在哈军工原址以海军工程系为主体组建哈尔滨船舶工程学院；1981年成为首批具有博士、硕士学位授予权单位；1994年，更名为哈尔滨工程大学。哈工程是中华人民共和国工业和信息化部直属并由工业和信息化部、教育部、黑龙江省、哈尔滨市共建的全国重点大学。'}
+{'name': '南京师范大学', 'enname': 'Nanjing Normal University', 'website': 'http://www.njnu.edu.cn', 'introduce': '南京师范大学，办学源头可追溯至1902年创办的三江师范学堂和1888年创办的汇文书院。1952年，在原南京大学、公立金陵大学等有关院系的基础上组建南京师范学院，1984年改办成南京师范大学，2000年并入南京动力高等专科学校。南京师范大学隶属于江苏省人民政府，是江苏省与教育部共建的高水平大学之一。'}
+{'name': '中国海洋大学', 'enname': 'Ocean University of China', 'website': 'http://www.ouc.edu.cn', 'introduce': '中国海洋大学，前身是创办于1924年的私立青岛大学；1930年，在省立山东大学和私立青岛大学基础上成立国立青岛大学；后历经国立山东大学、山东大学时期，1958年山东大学主体迁往济南，以留青的海洋系、水产系、地质系、生物系等为基础，于1959年3月成立山东海洋学院；1988年更名为青岛海洋大学；2002年更名为中国海洋大学。是中华人民共和国教育部直属的全国重点大学。'}
+{'name': '北京科技大学', 'enname': 'University of Science and Technology Beijing', 'website': 'http://www.ustb.edu.cn', 'introduce': '北京科技大学，1952年由天津大学、清华大学、唐山铁道学院、山西大学、北京工业学院、西北工学院等高校的矿冶系科组建而成，初名北京钢铁工业学院，是新中国建立的第一所钢铁工业高等学府，1988年学校定名为北京科技大学，1998年北京冶金管理干部学院并入。北京科技大学现为教育部直属高校，是国防科技工业局和教育部共建的全国重点大学。'}
+{'name': '电子科技大学', 'enname': 'University of Electronic Science and Technology of China', 'website': 'http://www.uestc.edu.cn', 'introduce': '电子科技大学，源于1956年创建的成都电讯工程学院，由交通大学（现上海交通大学、西安交通大学）、南京工学院（现东南大学）、华南工学院（现华南理工大学）的电讯系科合并成为新中国第一所无线电大学，1988年更名为电子科技大学，1998年并入国家冶金部所属成都冶金干部管理学院。电子科技大学为教育部直属，是教育部、工业和信息化部、四川省共建的全国重点大学。'}
+{'name': '湖南大学', 'enname': 'Hunan University', 'website': 'http://www.hnu.edu.cn', 'introduce': '湖南大学的学校历史可追溯至公元976年创建的岳麓书院，1926年定名为湖南大学。1953年全国院系调整，学校曾先后更名为中南土木建筑学院和湖南工学院，1959年恢复湖南大学原称。2000年湖南大学与湖南财经学院合并组建成新的湖南大学。湖南大学现为教育部直属高校，是教育部、工信部、国防科技工业局和湖南省人民政府共建的全国重点大学。'}
+{'name': '华东师范大学', 'enname': 'East China Normal University', 'website': 'http://www.ecnu.edu.cn', 'introduce': '华东师范大学，是以1924年创办的大夏大学和1925年创办的光华大学为基础，调入复旦大学、同济大学、浙江大学和圣约翰大学等高校的部分系科后，于1951年在大夏大学的原址上正式成立。1972年，与上海师范学院、上海体育学院等院校合并，改名上海师范大学，1980年恢复华东师范大学校名。华东师范大学是教育部直属高校，是教育部和上海市人民政府重点共建的全国重点大学。'}
+{'name': '大连理工大学', 'enname': 'Dalian University of Technology', 'website': 'http://www.dlut.edu.cn', 'introduce': '大连理工大学，学校肇始于1949年，时为大连大学工学院，是中国共产党在新中国成立前夕面向中国工业体系建设亲手创办的第一所新型正规大学，1988年定名为大连理工大学。大连理工大学隶属于教育部，副部级建制，是教育部和辽宁省人民政府共建的全国重点大学。'}
+{'name': '中南大学', 'enname': 'Central South University', 'website': 'http://www.csu.edu.cn', 'introduce': '中南大学，由湖南医科大学、长沙铁道学院和中南工业大学于2000年合并组建而成，其中湖南医科大学的前身为创建于1914年的湘雅医学专门学校，长沙铁道学院的前身为组建于1953年的中南土木建筑学院，中南工业大学的前身为组建于1952年的中南矿冶学院。中南大学现为教育部直属高校，是教育部、国家卫生健康委员会、湖南省人民政府共建的全国重点大学。'}
+{'name': '中国农业大学', 'enname': 'China Agricultural University', 'website': 'http://www.cau.edu.cn', 'introduce': '中国农业大学，前身是1905年成立的京师大学堂农科大学；1995年9月，北京农业大学与北京农业工程大学合并成立“中国农业大学”，是中国现代农业高等教育的起源地。中国农业大学是由中华人民共和国教育部直属，中央直管副部级建制，水利部、农业农村部和北京市共建的一所研究型大学。'}
+{'name': '西北工业大学', 'enname': 'Northwestern Polytechnical University', 'website': 'http://www.nwpu.edu.cn', 'introduce': '西北工业大学，前身是1938年组建的国立西北工学院；1950年更名为西北工学院；1952年交通大学、浙江大学、南京大学的航空工程系在南京组建华东航空学院；1956年更名为西安航空学院；1957年，西北工学院与西安航空学院合并组建西北工业大学；1970年，原中国人民解放军军事工程学院航空工程系整体并入。西北工业大学直属于中华人民共和国工业和信息化部，中央直管副部级建制，是中国唯一一所以同时发展航空、航天、航海（三航）工程教育和科学研究为特色的全国重点大学。'}
+{'name': '华南理工大学', 'enname': 'South China University of Technology', 'website': 'http://www.scut.edu.cn', 'introduce': '华南理工大学，1952年在全国高等学校院系调整中，以中山大学工学院、华南联合大学理工学院、岭南大学工程方面的系科、广东工业专科学校为基础，汇集调入中南地区多所院校工科院系正式组建华南工学院；之后历经多次院系的并入与划出，于1988年定名为华南理工大学。华南理工大学现为教育部直属高校，是教育部和广东省人民政府、国防科技工业局、国家海洋局共建的全国重点大学。'}
+{'name': '吉林大学', 'enname': 'Jilin University', 'website': 'http://www.jlu.edu.cn', 'introduce': '吉林大学，始建于1946年，2000年由原吉林大学、吉林工业大学、白求恩医科大学、长春科技大学、长春邮电学院合并组建新吉林大学。2004年，原中国人民解放军军需大学并入。吉林大学现为教育部直属高校，副部级建制，是教育部和吉林省共建的全国重点大学。'}
+{'name': '厦门大学', 'enname': 'Xiamen University', 'website': 'http://www.xmu.edu.cn', 'introduce': '厦门大学，学校创办于1921年，是中国近代教育史上第一所华侨创办的大学，1937年改为国立厦门大学，1952年全国院系调整时，厦门大学大部分院系陆续调出，调整后只保留文理学院，成为文理综合性大学。厦门大学是教育部直属高校，副部级建制，是教育部、福建省人民政府和厦门市人民政府共建的全国重点大学。'}
+{'name': '山东大学', 'enname': 'Shandong University', 'website': 'http://www.sdu.edu.cn', 'introduce': '山东大学，前身主体是1901年创办的山东大学堂，是继京师大学堂之后中国创办的第二所国立大学，也是中国第一所按章程办学的大学；先后历经了山东大学堂、国立青岛大学、国立山东大学、山东大学以及由原山东大学、山东医科大学、山东工业大学三校合并组建的新山东大学等几个历史发展时期。山大是由中华人民共和国教育部直属，中央直管副部级建制的综合性全国重点大学。'}
+{'name': '天津大学', 'enname': 'Tianjin University', 'website': 'http://www.tju.edu.cn', 'introduce': '天津大学，学校前身是始建于1895年的北洋大学，1951年北洋大学与河北工学院合并，定名为天津大学，1952年高校院系调整后，学校成为多科性工业大学。天津大学现为教育部直属高校，是教育部与天津市人民政府、国防科技工业局、水利部、国家海洋局共建的全国重点大学。'}
+{'name': '北京理工大学', 'enname': 'Beijing Institute of Technology', 'website': 'http://www.bit.edu.cn', 'introduce': '北京理工大学，学校前身为1940年创建于延安的自然科学院，1949年学校迁入北京，1952年更名为北京工业学院，成为新中国第一所国防工业院校，同年东北兵工专门学校兵工专业、北京市工农速成中学（后改为北京工业学院预科）并入，航空系、冶金系、采矿系及专修科划出；1988年定名为北京理工大学。北京理工大学现隶属于工业和信息化部，是工业和信息化部与教育部、北京市人民政府共建的全国重点大学。'}
+{'name': '南开大学', 'enname': 'Nankai University', 'website': 'http://www.nankai.edu.cn', 'introduce': '南开大学，创办于1919年，1937年与北京大学、清华大学合组长沙临时大学，1946年迁回天津复校。新中国成立后，经历高等教育院系调整，成为文理并重的全国重点大学，1994年并入天津对外经贸学院，2010年并入中国旅游管理干部学院。南开大学是教育部直属高校，副部级建制，是教育部与天津市人民政府共建的全国重点大学。'}
+{'name': '北京师范大学', 'enname': 'Beijing Normal University', 'website': 'http://www.bnu.edu.cn', 'introduce': '北京师范大学，前身是1902年创立的京师大学堂师范馆，1908年独立设校，1923年更名为北京师范大学，1931年并入北平女子师范大学，1952年并入辅仁大学。北京师范大学现为教育部直属高校，副部级建制，是教育部和北京市人民政府共建的全国重点大学。'}
+{'name': '中国人民大学', 'enname': 'Renmin University of China', 'website': 'http://www.ruc.edu.cn', 'introduce': '中国人民大学，前身是1937年创办于延安的陕北公学，以及后来的华北联合大学和华北大学。1949年，中央人民政府政务院通过了《关于成立中国人民大学的决定》。1950年，以华北大学为基础合并组建的中国人民大学正式开学，成为新中国创办的第一所新型正规大学。中国人民大学现为教育部直属高校，副部级建制，是教育部和北京市人民政府共建的全国重点大学。'}
+{'name': '北京航空航天大学', 'enname': 'Beihang University', 'website': 'http://www.buaa.edu.cn', 'introduce': '北京航空航天大学，创立于1952年，由当时的清华大学、北洋大学（今天津大学）、西北工学院（今西北工业大学）、厦门大学、四川大学等八所院校的航空院系合并组建，称为北京航空学院，是新中国第一所航空航天高等学府，1988年更名为北京航空航天大学。北京航空航天大学现为工业和信息化部直属高校，是工业和信息化部与教育部、北京市人民政府、中国工程院共建的航空航天特色的高水平大学之一。'}
+{'name': '哈尔滨工业大学', 'enname': 'Harbin Institute of Technology', 'website': 'http://www.hit.edu.cn', 'introduce': '哈尔滨工业大学，学校前身是创办于1920年的哈尔滨中俄工业学校，1938年正式定名为哈尔滨工业大学并沿用至今，2000年与哈尔滨建筑大学合并组建新的哈尔滨工业大学。哈尔滨工业大学是工业和信息化部直属高校，是工业和信息化部与教育部、黑龙江人民政府、国家海洋局共建的全国重点大学。'}
+{'name': '东南大学', 'enname': 'Southeast University', 'website': 'http://www.seu.edu.cn', 'introduce': '东南大学，学校前身是1902年创立的三江师范学堂，1921年以南京高等师范学校为基础正式建立国立东南大学，1952年经院系调整后更名为南京工学院，1988年学校复名东南大学，2000年原东南大学、南京铁道医学院、南京交通高等专科学校合并，南京地质学校并入，组建成新的东南大学。东南大学是教育部直属高校，是教育部和江苏省人民政府、国家科技工业局共建的全国重点大学。'}
+{'name': '四川大学', 'enname': 'Sichuan University', 'website': 'http://www.scu.edu.cn', 'introduce': '四川大学，前身是1896年创办的四川中西学堂；原成都科技大学是新中国院系调整时组建的第一批多科型工科院校；原华西医科大学源于1910年创办的华西协合大学。1994年，原四川大学和原成都科技大学合并为四川联合大学，1998年更名为四川大学。2000年，与原华西医科大学合并，组建了新的四川大学。川大是教育部直属、中央直管副部级的全国重点大学。'}
+{'name': '同济大学', 'enname': 'Tongji University', 'website': 'http://www.tongji.edu.cn', 'introduce': '同济大学，学校前身是1907年创立的德文医学堂，1927年改称国立同济大学，1952年院系调整后，同济大学成为国内土木建筑领域规模最大、学科最全的工科大学，2000年与上海铁道大学合并组建成新的同济大学。同济大学是教育部直属高校，是教育部和上海市人民政府、国家海洋局共建的全国重点大学。'}
+{'name': '西安交通大学', 'enname': "Xi'an Jiaotong University", 'website': 'http://www.xjtu.edu.cn', 'introduce': '西安交通大学，学校起源于1896年创立的南洋公学。1921年与唐山工业专门学校、北平铁道管理学校、北平邮电学校合并组建交通大学，1956年国务院决定交通大学内迁西安，1959年交通大学西安部分定名为西安交通大学。2000年西安交通大学与西安医科大学、陕西财经学院合并组建新的西安交通大学。西安交通大学现为教育部直属高校，副部级建制，是教育部和陕西省人民政府共建的全国重点大学。'}
+{'name': '武汉大学', 'enname': 'Wuhan University', 'website': 'http://www.whu.edu.cn', 'introduce': '武汉大学，学校溯源于1893年创办的自强学堂，1913年改建为国立武昌高等师范学校，1928年定名为国立武汉大学，1949年更名为武汉大学并沿用至今，2000年与原武汉水利电力大学、武汉测绘科技大学、湖北医科大学合并组建新的武汉大学。武汉大学是教育部直属高校，副部级建制，是教育部、湖北省人民政府、国防科技工业局、水利部和国家海洋局共建的全国重点大学。'}
+{'name': '复旦大学', 'enname': 'Fudan University', 'website': 'http://www.fudan.edu.cn', 'introduce': '复旦大学，学校起源于1905年创立的复旦公学，1917年定名为复旦大学并沿用至今，1937年复旦大学部分师生内迁重庆北碚（渝校），1946年渝校迁回上海与沪校合并，2000年复旦大学与上海医科大学合并，组建成新的复旦大学。复旦大学是教育部直属高校，副部级建制，“九校联盟（C9）”成员，由教育部和上海市人民政府重点共建，是中国最著名的高等学府之一。'}
+{'name': '南京大学', 'enname': 'Nanjing University', 'website': 'http://www.nju.edu.cn', 'introduce': '南京大学，前身是创建于1902年的三江师范学堂，此后历经两江师范学堂、南京高等师范学校、国立东南大学、第四中山大学、国立中央大学、国立南京大学等历史时期，1950年更名为南京大学。1952年，南京大学调整出工学、农学、师范等部分院系后与创办于1888年的金陵大学文、理学院等合并。南京大学隶属于教育部，是教育部和江苏省共建的全国重点大学。'}
+{'name': '上海交通大学', 'enname': 'Shanghai Jiao Tong University', 'website': 'http://www.sjtu.edu.cn', 'introduce': '上海交通大学，学校起源于1896年创立的南洋公学，1921年与唐山工业专门学校、北京铁路管理学校、北京邮电学校合并组建交通大学，1956年根据国务院决定学校部分迁往西安，分为交通大学上海部分和西安部分，1959年两部分独立建制，上海部分定名为上海交通大学，1999年上海农学院并入，2005年与上海第二医科大学强强合并。上海交通大学是教育部直属高校，是教育部、上海市人民政府、国防科技工业局、农业部、国家海洋局和卫健委共建的全国重点高校。'}
+{'name': '中山大学', 'enname': 'Sun Yat-Sen University', 'website': 'http://www.sysu.edu.cn', 'introduce': '中山大学，学校前身是孙中山先生于1924年创立的国立广东大学，1926年，更名为国立中山大学，1952年全国院系调整后，原中山大学文理院系与岭南大学文理院系合并，2001年学校与原中山医科大学合并组建新的中山大学。中山大学是教育部直属高校，副部级建制，是教育部、广东省人民政府、国家海洋局和卫计委共建的全国重点大学。'}
+{'name': '华中科技大学', 'enname': 'Huazhong University of Science and Technology', 'website': 'http://www.hust.edu.cn', 'introduce': '华中科技大学，由原华中理工大学、同济医科大学和武汉城市建设学院三所学校于2000年合并组建，其中华中理工大学的前身可追溯到1952年设立的华中工学院，同济医科大学的前身可追溯到1907年创立的上海德文医学堂，武汉城市建设学院的前身可追溯到1898年建立的湖北工艺学堂。华中科技大学是教育部直属高校，是教育部和湖北省人民政府、国防科技工业局、国家海洋局、国家卫生健康委员会共建的全国重点大学。'}
+{'name': '中国科学技术大学', 'enname': 'University of Science and Technology of China', 'website': 'http://www.ustc.edu.cn', 'introduce': '中国科学技术大学，1958年9月创建于北京，是中国科学院利用自身优势创办的一所培养新兴、边缘、交叉学科尖端技术科技人才的新型大学；建校第二年即被列为全国重点大学；1970年初，学校迁至安徽省合肥市；中科大是由中国科学院直属，中央直管副部级建制，位列世界一流大学建设高校A类、211工程、985工程以前沿科学和高新技术为主、兼有特色管理和人文学科的综合性全国重点大学。'}
+{'name': '浙江大学', 'enname': 'Zhejiang University', 'website': 'http://www.zju.edu.cn', 'introduce': '浙江大学，学校前身求是书院创立于1897年，1928年定名国立浙江大学，1952年全国高等学校院系调整后，留在杭州的主体部分被分为多所单科性院校，后分别发展为原浙江大学、杭州大学、浙江农业大学和浙江医科大学，1998年同根同源的四校合并，组建了新浙江大学。浙江大学是教育部直属高校，是教育部、浙江省人民政府、国防科技工业局、农业部、国家海洋局和卫健委共建的全国重点高校。'}
+{'name': '北京大学', 'enname': 'Peking University', 'website': 'http://www.pku.edu.cn', 'introduce': '北京大学，学校前身是1898年创立的京师大学堂。1912年，学校改为现名。1937年，与清华大学、中国人民大学南迁长沙，共同组建国立长沙临时大学，1938年迁至昆明，改称国立西南联合大学，1946年迁回北平复学。2000年北京大学与原北京医科大学合并，组建成新的北京大学。北京大学是教育部直属高校，副部级建制，由教育部和北京市人民政府重点共建，是中国乃至亚洲最著名的高等学府之一。'}
