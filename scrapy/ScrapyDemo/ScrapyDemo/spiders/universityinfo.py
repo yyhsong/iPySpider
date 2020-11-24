@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""案例 - 爬取中国大学信息
+"""案例 - 爬取中国大学简介
 
 1. 动态初始化请求URLs
 2. 请求中国大学介绍页面
@@ -42,7 +42,11 @@ class UniversityinfoSpider(scrapy.Spider):
         u_name = resp.xpath('//div[@class="univ-name"]/text()').extract()[0].strip()
         u_enname = resp.xpath('//div[@class="univ-enName"]/text()').extract()[0].strip()
         u_website = resp.xpath('//div[@class="univ-website"]/a/@href').extract()[0].strip()
-        u_intro = resp.xpath('//div[@class="univ-introduce"]/p[1]/text()').extract()[0].strip()
+        try:
+            u_intro = resp.xpath('//div[@class="univ-introduce"]/p[1]/text()').extract()[0].strip()
+        except:
+            u_intro = '无'
+
         doc_txt = u_name + '\n' + u_enname + '\n' + u_website + '\n' + u_intro
 
         fname = resp.url.split('/')[-1] + '.txt'
