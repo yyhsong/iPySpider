@@ -21,6 +21,7 @@ requests.post(url, data=None, json=None, **kwargs)  # **kwargs 11个
 4、files 字典类型，传输文件
 5、headers 字典，HTTP定制头信息
 6、cookies 字典或CookieJar，请求中的cookie
+    - requests.utils.dict_from_cookiejar(cookie)
 7、auth 元组，支持HTTP认证功能
 8、proxies 字典类型，设置访问代理服务器，可以增加登录认证
 9、timeout 设置超时时间，以秒为单位
