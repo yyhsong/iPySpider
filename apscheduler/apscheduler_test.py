@@ -69,7 +69,7 @@ if __name__ == '__main__':
     scheduler = BlockingScheduler()
 
     # 间隔任务 - 每过十分钟执行一次
-    # scheduler.add_job(say_hello, 'interval', minutes=10)
+    # scheduler.add_job(spider_task, 'interval', minutes=10)
 
     # 定时任务 - 周一到周五的中午12点半执行
     scheduler.add_job(spider_task, 'cron', day_of_week='mon-fri', hour=12, minute=30)
