@@ -1,5 +1,5 @@
 # iPySpider
-基于Python 3.x的网络爬虫和信息提取
+基于Python 3.x的网络爬虫与信息提取
 
 网页即接口 The website is the API.
 
